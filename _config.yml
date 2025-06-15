@@ -1,7 +1,7 @@
 # Site settings
 title: Daniel Party, Ph.D.
 logo: /assets/img/logo.png
-description: Director de Docencia, College, Pontificia Universidad Católica de Chile
+description: <strong>Director de Docencia, College, Pontificia Universidad Católica de Chile</strong> 
 remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 
