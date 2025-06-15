@@ -1,15 +1,20 @@
 # Curriculum Vitae
+
 ## Employment
+
 ### Pontificia Universidad Católica de Chile
+
 College UC, Director de Docencia, 2024-    
 College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
 College UC & Instituto de Música (joint apppointment), Associate Professor, 2022-  
 Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
 
 ### Saint Mary’s College (Indiana, USA)
+
 Department of Music, Associate Professor with tenure (2011-2013),  Assistant Professor (2006-2011), Instructor (2005-2006)
 
 ### Visiting Positions
+
 University of Texas at Austin, LLILAS Tinker Visiting Professorship, 2023  
 Tulane University, Greenleaf Fellow, Latin American Library, 2020  
 University of Oregon, Global Oregon Faculty, Global Studies Institute, 2018  
@@ -17,17 +22,22 @@ Brown University, Cogut Visiting Professor, Center for Latin American and Caribb
 University of Georgia, Franklin International Visiting Professor, Franklin College, 2016  
 
 ## Education
+
 Ph.D. in Music History, University of Pennsylvania, 2006  
 B.M. in Classical Guitar Performance, Catholic University of Chile, 1998  
 B.S. in Physics, awarded with maximum distinction, Catholic University of Chile, 1997  
 
 ## Publications
+
 ### Articles & Book Chapters
+
 ### Under review
+
 Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. Revista Musical Chilena.  
 Party, D. & Benavente, J. "Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos." Book chapter.  
 
 ### Published
+
 Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier. Resonancias, 29(56), 223-229.  
 Party, D. , & Díaz Pinto, A. M. (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), Musics of Latin America (in press).  
 Party, D., & Wolf, J. E. (2023). Canto por travesura: folklore y picaresca en un disco de Víctor Jara. Revista Musical Chilena, 77(240), 62-79. https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922  
@@ -56,10 +66,12 @@ Party, D. (2009). Placer Culpable: Shame and Nostalgia in the Chilean 1990s bala
 Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A. L. Madrid (Eds.), Postnational Musical Identities: Cultural Production, Distribution and Consumption in a Globalized Scenario (pp. 65-80). Lexington Books.   
 
 ## Encyclopedia Entries
+
 “Bolero,” “Balada,” “Bolero Moderno,” and “Filin.” In The Bloomsbury Encyclopedia of Popular Musics of the World. Part 3, Vol. IX, edited by John Shepherd and David Horn, 2014.  
 “Pablo Neruda,” “Bolero,” “Balada,” “José Feliciano,” “Pedro Flores,” “Juan Gabriel,” “Enrique Iglesias,” “Los Panchos,” “Armando Manzanero,” “Luis Miguel,” “Juan Orrego-Salas.” In The Grove Dictionary of American Music, second edition, edited by Charles Hiroshi Garrett, 2013.  
 
 ## Reviews
+
 "Gentleman Troubadours and Andean Pop Stars: Huayno Music, Media Work, and Ethnic Imaginaries in Urban Peru" by Joshua Tucker (University of Chicago Press, 2013), Latin American Music Review 36(2), 2015, pp. 267-269.  
 "Troubling Gender: Youth and Cumbia in Argentina's Music Scene" by Pablo Vila and Pablo Semán (Temple University Press, 2011), Popular Music and Society 36(1), 2013, pp. 127-129.  
 "Rock the Nation: Latin/o Identities and the Latin Rock Diaspora" by Roberto Avant-Mier (Continuum, 2010), Camino Real: Estudios de las Hispanidades Norteamericanas 3(4), 2011, pp. 222-4.  
@@ -68,15 +80,19 @@ Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A.
 “Raíces Latinas: Smithsonian Folkways Latino Roots Collection.” Washington, DC: Smithsonian Folkways SFW40470 (2002), The World of Music 47(1), 2005, pp. 147-8.  
 
 ### Guest Editing
+
 Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano (Dossier de documentos). Resonancias.  
 Party, D. ed. (2015). Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto (Dossier de documentos). Resonancias 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
 
 ## Awards, Grants, and Fellowships
+
 ### Teaching Awards
+
 Excellence in Teaching Award, Universidad Católica de Chile, 2015  
 Most Promising Teacher of Writing Award, Critical Writing Program, University of Pennsylvania, 2005  
 
 ### Research Grants
+
 Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
 Millenium Nucleus in Musical and Sound Cultures, Iniciativa Científica Milenio ANID NCS2022_016, principal researcher, 2023-2025  
 Gender Performance in the Music of Víctor Jara, FONDECYT Regular 1220146, principal researcher, 2022-2025  
@@ -100,11 +116,13 @@ New Faculty-Scholar Grant, Lilly Foundation (course load reduction and research 
 Otto E. Albrecht Research Travel Grant, University of Pennsylvania, 2003  
 
 ### Fellowships
+
 Critical Writing Teaching Fellowship, University of Pennsylvania, 2004-05  
 Benjamin Franklin Fellowship, University of Pennsylvania, 1999-2004  
 Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1996-97  
 
 ## Invited Guest Lectures and Workshops
+
 "Brechas de género en el ránking latino de Billboard (1987-2024)", Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025  
 "Los Diablos Rojos de Víctor Jara: un análisis coreográfico y musical" (with Javiera Benavente), Simposio Internacional Bandas de bronces y movimientos sociales, Pontificia Universidad Católica de Valparaíso, Dec 2024  
 Music Department, University of Pennsylvania, Sept 2024  
@@ -146,6 +164,7 @@ Music Department, Cornell University, Feb 2017
 “Smells like Old Spice: Thoughts on Rock and Aging,” special lecture at the opening of the art exhibition Arrested Development: a show about male adolescence, Moreau Art Galleries, Saint Mary’s College, Jan 2008  
 
 ## Conference Presentations
+
 "Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", IASPM-América Latina (Recife, Brasil), Sept 2024  
 "Música y conmemoración a 50 años del golpe de Estado chileno", ARLAC/IMS (Panel organizer and chair, Ciudad de México, México), Aug 2024  
 "La modernización del bolero moderno: Manzanero en 1967", Coloquio Académico Armando Manzanero: Trayectoria y Legado (Mérida, México), Dec 2023  
@@ -189,10 +208,13 @@ Music Department, Cornell University, Feb 2017
 “A feminist reading of Bartók’s Duke Bluebeard’s Castle,” Penn-Columbia-Princeton-Cornell graduate student conference (Philadelphia, PA), Feb 2002  
 
 ## Students and Postdoctoral Advisees
+
 ### Postdoctoral Advisees
+
 Luis Achondo. Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
 
 ### Ph.D. students
+
 Lydia Wagenknecht. Sounds of Climate Change in Punta Arenas, Ph.D. in Ethnomusicology, Department of Music, University of  Colorado Boulder (Fulbright Host, and Dissertation Committee Member), 2023-2025  
 Rosario Bravo. Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
 Nelson Rodríguez. Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
@@ -203,6 +225,7 @@ Christina Azahar. Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in C
 Zamara Cuadros. El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
 
 ### M.A. students
+
 Carlos Soto Martínez. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2025.  
 Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2024.  
 Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022.  
@@ -216,20 +239,29 @@ Aníbal Fuentealba. Experiencia musical e identidad de género en hombres homose
 Ricardo Hermosilla. Referencia no verbal en dos sonatas chilenas para guitarra clásica, Magíster en Artes (guitar performance, co-advised with Luis Orlandini), Facultad de Artes, Pontificia Universidad Católica de Chile, 2013.    
 
 ## Courses taught 
+
 ### @ Pontificia Universidad Católica de Chile
+
 Graduate: Música & Performance, Música & Cultura, Etnomusicología  
 Undergraduate: Desafíos actuales para las Artes; Culturas Musicales del Mundo; Música Popular Latinoamericana; Metodología Musicológica, Metodología Etnomusicológica, Musicología en América Latina, Géneros Musicológicos, Literatura Musical I & III    
+
 ### @ Saint Mary’s College
+
 Latin American Music (cross-listed with Anthropology and Latin American Studies); American Popular Music; Popular Music, Gender & Sexuality; Music Appreciation (Writing Intensive); Music History Sequence; Senior Research Seminar  
+
 ### @ University of Pennsylvania 
+
 Popular Music in Theory and Practice (Writing Seminar); Introduction to Music History  
+
 ### @ Other institutions
+
 Activist Arts in Contemporary Latin America (Institut for Latin American Studies, UT Austin)  
 Music, Gender & Sexuality in Latin America (Center for Latin American and Caribbean Studies, Brown University)  
 Music, Gender & Sexuality in the Americas (Franklin International Scholars Program, University of Georgia)  
 Música popular y estudios de género (Diplomado en Estudios de Música Popular, Universidad Alberto Hurtado)    
 
 ## In the Media
+
 "Beyond the Music: Daniel Party on Víctor Jara and the Many Facets of Musicology". Interview in Portal: Magazine of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Octobre 17, 2023.  
 "Libros: Canciones que se escuchan entre el horror". Opinion piece in Ciper, October 4, 2023.  
 TV interview on Daddy Yankee's retirement announcement. Meganoticias, January 5, 2022.  
@@ -242,7 +274,9 @@ TV Interview on Michael Jackson’s Legacy. WSBT Evening News, July 3, 2009.
 TV Interview on Michael Jackson’s Thriller 25th Anniversary Edition. WSBT Evening News, February 12, 2008.  
 
 ## Academic and Evaluation Service
+
 ### Academic Service
+
 Subdirector Académico, Licenciatura en Artes y Humanidades, College UC, Pontificia Universidad Católica de Chile, 2022-  
 Member, Comisión Académica, Proyecto Innovación en Educación Superior para la Igualdad de Género en el ámbito de la I+D+i+e (InES Género), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2022-  
 Director interino, College UC, Pontificia Universidad Católica de Chile, 2022  
@@ -264,7 +298,9 @@ Member, Women Studies’ Concentration’s steering committee, Saint Mary’s Co
 Co-organizer, Music Department Colloquia Series, University of Pennsylvania, 2001-02  
 
 ### Referee and Evaluation Services
+
 Par evaluador programas de postgrado, Comisión Nacional de Acreditación; Latin American Music Review; Popular Music and Society; Music & Politics; A Contracorriente; Latin American Research Review; International Review of Social Research; Psykhe; Oxford University Press; University of California Press; CONICYT; and Fondo de la Música (Consejo Nacional de la Cultura y las Artes), Premios Pulsar.
 
 ### Professional Associations
+
 Society for Ethnomusicology; International Association for the Study of Popular Music; Latin American Studies Association
