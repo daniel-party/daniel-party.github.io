@@ -188,3 +188,83 @@ Music Department, Cornell University, Feb 2017
 “Transnacionalización y la Balada Latinoamericana,” Congreso Chileno de Musicología (Santiago, Chile), Jan 2003  
 “A feminist reading of Bartók’s Duke Bluebeard’s Castle,” Penn-Columbia-Princeton-Cornell graduate student conference (Philadelphia, PA), Feb 2002  
 
+## Students and Postdoctoral Advisees
+### Postdoctoral Advisees
+Luis Achondo. Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
+
+### Ph.D. students
+Lydia Wagenknecht. Sounds of Climate Change in Punta Arenas, Ph.D. in Ethnomusicology, Department of Music, University of  Colorado Boulder (Fulbright Host, and Dissertation Committee Member), 2023-2025  
+Rosario Bravo. Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
+Nelson Rodríguez. Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
+Javiera Benavente. Identidades en disputa: la danza - música de caporales y espacio transnacional andino, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
+Federico Eisner. Puesta en música de poesía sonora: relaciones entre poesía sonora y música a través de las prácticas vocales experimentales, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019-2022.  
+José Miguel Candela. Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
+Christina Azahar. Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in Chile's Popular Music Scenes, Ph.D. in Ethnomusicology, Department of Music, University of California, Berkeley (committee member, and Fulbright Host), 2017-2021  
+Zamara Cuadros. El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
+
+### M.A. students
+Carlos Soto Martínez. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2025.  
+Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2024.  
+Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022.  
+María de la Luz Núñez. De Conan a símbolo de raza y nación. Desarrollo e implicancias de la masculinidad de protesta de la figura del guerrero vikingo en los inicios del metal vikingo nórdico. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021.  
+Catalina Sentis. La compositora chilena María Luisa Sepúlveda (1883-1958): Discursos historiográficos, exoneración y feminismo, Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019.  
+Estefanía Urqueta. El aporte del programa estatal Escuelas de Rock en la formación y condiciones laborales del músico popular: Una aproximación desde la política cultural chilena de posdictadura, Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2018.  
+Javiera Benavente. De los Andes al margen: Disidencia y transgresión en manifestaciones andinas en Santiago de Chile, Magíster en Estéticas Americanas, Instituto de Estética, Pontificia Universidad Católica de Chile, 2016.  
+Marco Marchant. Femenina, ferviente y disidente: mandolina metodista y pentecostal como herramienta de control y desarticulación de normas de género, Magíster en Artes (musicology), Facultad de Artes, Pontificia Universidad Católica de Chile, 2015.  
+Viviana Silva. Eu sou cría da sua costela: Construcciones de género y representaciones de femineidad en canciones de Chico Buarque, Magíster en Musicología Latinoamericana, Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado (co-advised with Fernando Pérez), 2014-2015.    
+Aníbal Fuentealba. Experiencia musical e identidad de género en hombres homosexuales de la ciudad de Santiago: Aproximaciones desde una microsociología de la música, Magíster en Sociología, Departamento de Sociología, Universidad Alberto Hurtado, 2014.    
+Ricardo Hermosilla. Referencia no verbal en dos sonatas chilenas para guitarra clásica, Magíster en Artes (guitar performance, co-advised with Luis Orlandini), Facultad de Artes, Pontificia Universidad Católica de Chile, 2013.    
+
+## Courses taught 
+### @ Pontificia Universidad Católica de Chile
+Graduate: Música & Performance, Música & Cultura, Etnomusicología  
+Undergraduate: Desafíos actuales para las Artes; Culturas Musicales del Mundo; Música Popular Latinoamericana; Metodología Musicológica, Metodología Etnomusicológica, Musicología en América Latina, Géneros Musicológicos, Literatura Musical I & III    
+### @ Saint Mary’s College
+Latin American Music (cross-listed with Anthropology and Latin American Studies); American Popular Music; Popular Music, Gender & Sexuality; Music Appreciation (Writing Intensive); Music History Sequence; Senior Research Seminar  
+### @ University of Pennsylvania 
+Popular Music in Theory and Practice (Writing Seminar); Introduction to Music History  
+### @ Other institutions
+Activist Arts in Contemporary Latin America (Institut for Latin American Studies, UT Austin)  
+Music, Gender & Sexuality in Latin America (Center for Latin American and Caribbean Studies, Brown University)  
+Music, Gender & Sexuality in the Americas (Franklin International Scholars Program, University of Georgia)  
+Música popular y estudios de género (Diplomado en Estudios de Música Popular, Universidad Alberto Hurtado)    
+
+## In the Media
+"Beyond the Music: Daniel Party on Víctor Jara and the Many Facets of Musicology". Interview in Portal: Magazine of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Octobre 17, 2023.  
+"Libros: Canciones que se escuchan entre el horror". Opinion piece in Ciper, October 4, 2023.  
+TV interview on Daddy Yankee's retirement announcement. Meganoticias, January 5, 2022.  
+Three brief capsules on the uses of music in the October 2019 "Estallido social," Media UC on YouTube, December 30, 2019.  
+TV interviews on Lucho Gatica's legacy on 24horas, TVN and CNN Chile, November 14, 2018.   
+Radio Interview on Bob Dylan, Nobel Prize winner, Radio Cooperativa, October 13, 2016.  
+Radio Interview on Lucho Gatica's Inolvidables con Lucho, Radio Universidad de Chile, January 14, 2015.  
+“Michael Jackson: The Multimedia Artist.” Newsweek Japan, July 22, 2009.  
+TV Interview on Michael Jackson’s Legacy. WSBT Evening News, July 3, 2009.  
+TV Interview on Michael Jackson’s Thriller 25th Anniversary Edition. WSBT Evening News, February 12, 2008.  
+
+## Academic and Evaluation Service
+### Academic Service
+Subdirector Académico, Licenciatura en Artes y Humanidades, College UC, Pontificia Universidad Católica de Chile, 2022-  
+Member, Comisión Académica, Proyecto Innovación en Educación Superior para la Igualdad de Género en el ámbito de la I+D+i+e (InES Género), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2022-  
+Director interino, College UC, Pontificia Universidad Católica de Chile, 2022  
+Jury member, XII Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2022  
+Secretario Académico, College UC, Pontificia Universidad Católica de Chile, 2020  
+Director of Graduate Studies and Research, Facultad de Artes, Pontificia Universidad Católica de Chile, 2015-2019    
+Editorial Board Member, Contrapulso: Revista latinoamericana de estudios en música popular, Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado, Santiago de Chile, 2019-    
+Coordinator, Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2018, 2020   
+Editorial Board Member, Diagonal: An Ibero-American Music Review, Center for Iberian and Latin American Music at the University of California, Riverside, 2015-    
+Member, College UC Advisory Board, Pontificia Universidad Católica de Chile, 2014-     
+Editorial Board Member, Revista Resonancias, Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
+Jury member, IX Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2014  
+Research coordinator, Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-2015  
+Chair, Latin American and Caribbean Music Section, Society for Ethnomusicology, 2012-13  
+Steering Committee Member, Writing Proficiency Program, Saint Mary’s College, 2009-13  
+Appointed member, Leadership Team for the American Council on Education’s Internationalization Lab at Saint Mary’s College, 2008-09   
+Elected member, Ad Hoc Committee on General Education Curricular Reform, Saint Mary’s College, 2006-09  
+Member, Women Studies’ Concentration’s steering committee, Saint Mary’s College, 2005-13  
+Co-organizer, Music Department Colloquia Series, University of Pennsylvania, 2001-02  
+
+### Referee and Evaluation Services
+Par evaluador programas de postgrado, Comisión Nacional de Acreditación; Latin American Music Review; Popular Music and Society; Music & Politics; A Contracorriente; Latin American Research Review; International Review of Social Research; Psykhe; Oxford University Press; University of California Press; CONICYT; and Fondo de la Música (Consejo Nacional de la Cultura y las Artes), Premios Pulsar.
+
+### Professional Associations
+Society for Ethnomusicology; International Association for the Study of Popular Music; Latin American Studies Association
