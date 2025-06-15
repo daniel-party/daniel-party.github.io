@@ -1,9 +1,13 @@
 # Site settings
-title: Daniel
+title: Daniel Party, Ph.D.
 author: 
-  name: N
+  name: 
   email: dparty@uc.cl
-description: "Personal website."
+description: Director de Docencia / College UC
+  Profesor Asociado   /   College & Facultad de Artes
+  Pontificia Universidad Católica de Chile
+  dparty@uc.cl
+  Investigador Principal   /   Núcleo Milenio en Culturas Musicales y Sonoras
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
