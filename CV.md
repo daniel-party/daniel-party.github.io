@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Curriculum Vitae
 
 ## Employment
@@ -341,3 +345,5 @@ Par evaluador programas de postgrado, Comisión Nacional de Acreditación; Latin
 ### Professional Associations
 
 Society for Ethnomusicology; International Association for the Study of Popular Music; Latin American Studies Association
+
+[back](./)
