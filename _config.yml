@@ -1,17 +1,14 @@
 # Site settings
 title: Daniel Party, Ph.D.
-author: 
-  name: 
-  email: dparty@uc.cl
-description: Director de Docencia / College UC  <br>
-
-  Profesor Asociado   /   College & Facultad de Artes  
-  
-  Pontificia Universidad Católica de Chile  
-  
-  dparty@uc.cl  
-  
-  Investigador Principal   /   Núcleo Milenio en Culturas Musicales y Sonoras
-
-# Build settings
+logo: /assets/img/logo.png
+description: Director de Docencia, College, Pontificia Universidad Católica de Chile
 remote_theme: pages-themes/minimal@v0.2.0
+
+# title: Daniel Party, Ph.D.
+# author: 
+#  name: 
+#  email: dparty@uc.cl
+# description: Director de Docencia / College UC   Profesor Asociado   /   College & Facultad de Artes    Pontificia Universidad Católica de Chile    dparty@uc.cl    Investigador Principal   /   Núcleo Milenio en Culturas Musicales y Sonoras
+#
+# Build settings
+# remote_theme: pages-themes/minimal@v0.2.0
