@@ -43,7 +43,7 @@ Party, D., & Achondo, L. (2020). Canciones y cantantes en la obra de Pedro Lemeb
 Party, D., & Kalawski, A. (2020). Escenas contra la soledad: el diálogo en los duetos pop. Contrapulso: Revista latinoamericana de estudios en música popular, 2(2), 3-19. https://doi.org/10.53689/cp.v2i1.16  
 Party, D. (2019). Homofobia y la Nueva Canción Chilena. El Oído Pensante, 7(2), 42-63. http://revistascientificas2.filo.uba.ar/index.php/oidopensante/article/view/7560   
 Party, D. (2018). El amor en los tiempos del iPod: escuchando a Javiera Mena. Taller de Letras, 63, 59-71. https://doi.org/10.7764/tl6359-71   
-Party, D. (2018). Inolvidables con Lucho Gatica (1958): un tributo jazzístico a la canción mexicana. Revista Musical Chilena, LXXII 229, 107-130. https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/50767   
+Party, D. (2018). Inolvidables con Lucho Gatica (1958): un tributo jazzístico a la canción mexicana. Revista Musical Chilena, LXXII 229, 107-130. https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/50767   
 Party, D. (2018). La miamización de la música pop latinoamericana. Boletín Música, 48-49, 3-19.   
 Party, D., & Achondo, L. (2017). La loca y sus cantantes: La ‘música alharaca’ en la obra de Pedro Lemebel. In R. Carreño (Ed.), La rueda mágica: ensayos de música y literatura (pp. 155-168). Ediciones Universidad Alberto Hurtado.   
 Party, D. (2017). Sheila Whiteley: musicóloga popular y feminista. Revista Musical Chilena, 71(227), 149-152.   
@@ -55,4 +55,136 @@ Party, D. (2009). Beyond ‘Protest Song’: Popular Music in Pinochet’s Chile
 Party, D. (2009). Placer Culpable: Shame and Nostalgia in the Chilean 1990s balada revival. Latin American Music Review, 30(1), 69-98. https://doi.org/10.1353/lat.0.0034    
 Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A. L. Madrid (Eds.), Postnational Musical Identities: Cultural Production, Distribution and Consumption in a Globalized Scenario (pp. 65-80). Lexington Books.   
 
-##Encyclopedia Entries
+## Encyclopedia Entries
+“Bolero,” “Balada,” “Bolero Moderno,” and “Filin.” In The Bloomsbury Encyclopedia of Popular Musics of the World. Part 3, Vol. IX, edited by John Shepherd and David Horn, 2014.  
+“Pablo Neruda,” “Bolero,” “Balada,” “José Feliciano,” “Pedro Flores,” “Juan Gabriel,” “Enrique Iglesias,” “Los Panchos,” “Armando Manzanero,” “Luis Miguel,” “Juan Orrego-Salas.” In The Grove Dictionary of American Music, second edition, edited by Charles Hiroshi Garrett, 2013.  
+
+## Reviews
+"Gentleman Troubadours and Andean Pop Stars: Huayno Music, Media Work, and Ethnic Imaginaries in Urban Peru" by Joshua Tucker (University of Chicago Press, 2013), Latin American Music Review 36(2), 2015, pp. 267-269.  
+"Troubling Gender: Youth and Cumbia in Argentina's Music Scene" by Pablo Vila and Pablo Semán (Temple University Press, 2011), Popular Music and Society 36(1), 2013, pp. 127-129.  
+"Rock the Nation: Latin/o Identities and the Latin Rock Diaspora" by Roberto Avant-Mier (Continuum, 2010), Camino Real: Estudios de las Hispanidades Norteamericanas 3(4), 2011, pp. 222-4.  
+“Gonzalo Rubalcaba Trio: Live at the Münchner Klaviersommer 1994.” (TDK DVD, 2006), Journal of the Society for American Music 1(4), 2007, pp. 561-2.  
+“Rockin’ Las Américas: The Global Politics of Rock in Latin/o America” edited by Deborah Pacini Hernandez, Héctor Fernández L’Hoeste, and Eric Zolov (U. of Pittsburgh Press, 2004), Popular Music and Society 29(4), 2006, pp. 485-7.  
+“Raíces Latinas: Smithsonian Folkways Latino Roots Collection.” Washington, DC: Smithsonian Folkways SFW40470 (2002), The World of Music 47(1), 2005, pp. 147-8.  
+
+### Guest Editing
+Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano (Dossier de documentos). Resonancias.  
+Party, D. ed. (2015). Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto (Dossier de documentos). Resonancias 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
+
+## Awards, Grants, and Fellowships
+### Teaching Awards
+Excellence in Teaching Award, Universidad Católica de Chile, 2015  
+Most Promising Teacher of Writing Award, Critical Writing Program, University of Pennsylvania, 2005  
+
+### Research Grants
+Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
+Millenium Nucleus in Musical and Sound Cultures, Iniciativa Científica Milenio ANID NCS2022_016, principal researcher, 2023-2025  
+Gender Performance in the Music of Víctor Jara, FONDECYT Regular 1220146, principal researcher, 2022-2025  
+Núcleo Milenio Arte, Performatividad y Activismo (Universidad Católica-Universidad Austral), Iniciativa Científica Milenio ANID, adjunct researcher, 2018-2021  
+Listening to Sexuality: An Ethnomusicological Approach, Fondo Puente 13/2019, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2019-2020  
+The emergence of patterns of coordination in the course of the development of musical skill: an interdisciplinary approach (Universidad Católica-University of Cambridge project, with Carlos Cornejo, Ian Cross, and Sarah Hawkins), Concurso de Internacionalización de la Investigación en Astrofísica, Cambio Global y Ciencias Cognitivas, 2016-2018  
+Listening to Gender: A hermeneutics of music as performance, FONDECYT Regular 1140979, principal researcher, 2014-2018  
+International Short Stay Grant (University of Georgia), Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2015  
+A dos voces: hacia una epistemología del dueto en la música pop, Concurso Creación y Cultura Artística, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2014  
+Faculty Research Grant, Saint Mary’s College, 2012  
+Travel Grant, Center for Women’s InterCultural Leadership, Saint Mary’s College, 2012  
+Summer Collaborative Research Grant (with student Rachel Thiel), Saint Mary’s College, 2011  
+Travel Grant, Center for Women’s InterCultural Leadership, Saint Mary’s College, 2010  
+Course Development Grant (Popular Music, Gender and Sexuality course), Saint Mary’s College, 2010  
+Summer Collaborative Research Grant (with student Stephanie Mitchell), Saint Mary’s College, 2009  
+Travel Grant, Center for Women’s InterCultural Leadership, Saint Mary’s College, 2009  
+Research Grant, Program for Cultural Cooperation between Spain’s Ministry of Culture and United States Universities, 2008  
+Faculty Research Travel Grant, Saint Mary’s College, 2008  
+Research Grant, Center for Women’s InterCultural Leadership, Saint Mary’s College, 2008  
+New Faculty-Scholar Grant, Lilly Foundation (course load reduction and research funds), 2005-07  
+Otto E. Albrecht Research Travel Grant, University of Pennsylvania, 2003  
+
+### Fellowships
+Critical Writing Teaching Fellowship, University of Pennsylvania, 2004-05  
+Benjamin Franklin Fellowship, University of Pennsylvania, 1999-2004  
+Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1996-97  
+
+## Invited Guest Lectures and Workshops
+"Brechas de género en el ránking latino de Billboard (1987-2024)", Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025  
+"Los Diablos Rojos de Víctor Jara: un análisis coreográfico y musical" (with Javiera Benavente), Simposio Internacional Bandas de bronces y movimientos sociales, Pontificia Universidad Católica de Valparaíso, Dec 2024  
+Music Department, University of Pennsylvania, Sept 2024  
+Haverford College, Sept 2024  
+Lanzamiento Revista Musical Chilena N° 240 (roundtable), Aug 2024   
+"Las vidas de Víctor Jara: obra y legado", Conversatorio, Casa Memoria de Valparaíso, Nov 2023  
+"A 50 Años del Apagón Cultural: ¿ Qué se escuchaba antes, durante, y después de 1973?", Conversatorio, Casa Cultural Yanulaque (Arica), Aug 2023  
+Music Department, University of Illinois Chicago, Apr 2023  
+Association of Graduate Ethno/Musicology Students Colloquium, Butler School of Music, University of Texas at Austin, Mar 2023  
+Ethnomusicology Roundtable, Faculty of Music, University of Toronto, Mar 2023  
+Seminario Permanente de Música y Género, Facultad de Música, Universidad Autónoma de México, Mar 2023  
+Department of Spanish & Portuguese, Tulane University, Feb 2023  
+LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Jan 2023  
+Encuentro de saberes para la equidad de género (roundtable), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, Nov 2022  
+"Cantos por Travesura: Humor y picardía en Víctor Jara." Semana de la musicología, Instituto de Música UC, Oct 2021  
+"Boleros de mujer." Teatro del Lago, Frutillar, Sep 2021  
+"Diálogos sobre la voz: La pregunta sobre el género." Corporación Cultural Matucana 100, Aug 2020.  
+"The Right to Live in Peace: Musical Responses to Violence in the 2019 Chilean Uprising". Department of Music, University of California Riverside, Feb 2020  
+"Uses of Víctor Jara in Chilean Social Movements (2009-2019)". American Music Research Center, College of Music, University of Colorado Boulder, Feb 2020  
+"Bolero Jazz: Stories of a Musical Rendezvous". New Orleans Jazz & Heritage Foundation, New Orleans, Jan 2020  
+"The Miamization of Radionovelas: Cuban-American Serials of the 1960s". Latin American Library, Tulane University, Jan 2020  
+"Masculinidades en el teatro y la música de Víctor Jara". Coloquio Cultura Intermedial durante la Unidad Popular, Universidad Finis Terrae, Aug 2019  
+"Coordinaciones humanas cotidianas y música" (with Carlos Cornejo). Seminario internacional Música, Psicología y Coordinación: El papel de la música en el desarrollo humano integral, Campus Villarrica, Pontificia Universidad Católica de Chile, Dic 2018  
+"Interpersonal coordination before and after musical improvisation" (with Carlos Cornejo). Musical Cognition: Interdisciplinary Approaches Seminar, Escuela de Psicología, Pontificia Universidad Católica de Chile, Dic 2018  
+Institute of Latin American Studies, School of Advanced Studies, University of London, Sept 2018  
+Global Studies Institute (with Juan Eduardo Wolf), University of Oregon, Jul 2018  
+School of Music and Dance, University of Oregon, Jun 2017  
+Center for Latin American and Caribbean Studies, New York University, Apr 2017  
+Center for Latin American and Caribbean Studies, Brown University, Mar 2017  
+Transnational Modernities: Latin America, United States, and Beyond Workshop. Cervantes Institute and Music Department, Harvard University, Mar 2017  
+Music Department, Cornell University, Feb 2017  
+"A dos voces: interacción vocal en el dueto de música popular" (with Andrés Kalawski). Sincronía y coordinación interpersonal: hallazgos, teoría e implicaciones prácticas Symposium, Escuela de Psicología, Pontificia Universidad Católica de Chile, Sep 2016  
+"Surface Reading and Lesbian Subjectivity in Javiera Mena’s Mena." Experimentalism in Practice: Perspectives from Latin America Symposium, Rutgers University, Sep 2015  
+"Vocalidad de despecho: un análisis de la performance vocal de Olga Guillot." Princeton University in Chile, Universidad Diego Portales, Jun 2015  
+"La música como constructora de identificaciones de género" (Roundtable). Facultad de Ciencias Sociales, Universidad de Chile, Dec 2014  
+"Poder feminista funk y Ut Pictura Musica." Galería Macchina, Pontificia Universidad Católica de Chile, Aug 2014  
+"Bolero Crooning and the Technological Mediation of Sentimentalism." Gilbert Chase Memorial Annual Lecture in Latin American Music, Tulane University, Oct 2012  
+"Pop Music and Dictatorship in Chile and Spain." Center for Latin American & Caribbean Studies, University of Illinois at Urbana-Champaign, Feb 2010  
+“Smells like Old Spice: Thoughts on Rock and Aging,” special lecture at the opening of the art exhibition Arrested Development: a show about male adolescence, Moreau Art Galleries, Saint Mary’s College, Jan 2008  
+
+## Conference Presentations
+"Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", IASPM-América Latina (Recife, Brasil), Sept 2024  
+"Música y conmemoración a 50 años del golpe de Estado chileno", ARLAC/IMS (Panel organizer and chair, Ciudad de México, México), Aug 2024  
+"La modernización del bolero moderno: Manzanero en 1967", Coloquio Académico Armando Manzanero: Trayectoria y Legado (Mérida, México), Dec 2023  
+"Víctor Jara, el Partido Comunista y lo mapuche: entre solidaridad y pastoralismo folklórico" (with Luis Achondo), Congreso de SIBE/IASPM-España/ICTM España (Granada, España), Nov 2023  
+"Humor y folclore en Víctor Jara", Congreso de SIBE/IASPM-España/ICTM España (Granada, España), Nov 2023  
+"Víctor Jara’s Bawdy Humor", 67th Annual Meeting of the SEM (Panel organizer and chair, New Orleans, LA), Nov 2022  
+"¿Y cómo es él?: José Luis Perales, masculinidad tóxica y la cuarta ola del feminismo", XIV Congreso IASPM-AL (Medellín, Colombia), Nov 2020  
+"Tracking democratisation through Artistic Performance: Perspectives from Chile", 56th Annual Conference of the Royal Musical Association (London, UK), Sept 2020  
+"Contribuciones de lo musical a una lectura queer de Arpeggione de Luis Alberto Heiremans", XXII Congreso Internacional de la Sociedad Chilena de Estudios Literarios SOCHEL (Santiago de Chile), Oct 2019  
+"Los Diablos Rojos de Víctor Jara: Arte, Performatividad y Activismo", Simposio Internacional Música, tradición y creatividad en la era digital: nuevas perspectivas etnomusicológicas desde el sur global, Universidad de Los Andes (Bogotá, Colombia), Oct 2019  
+"Víctor Jara's Revolutionary Masculinities," LASA (Boston, MA), May 2019  
+"El amor en los tiempos del iPod: escuchando a Javiera Mena," IV Coloquio Pensar/crear/investigar en músicas y tecnologías, Universidad Diego Portales, Apr 2019  
+"Pop music exchanges between Latin America and Spain (1980-1990)," Trayectorias: Music between Latin America and Europe 1970-2000 (Santiago de Chile), Mar 2019  
+"'Paloma quiero contarte': Las masculinidades revolucionarias de Víctor Jara," ASEMPCH (Santiago de Chile), Jan 2019  
+"Víctor Jara's Revolutionary Masculinities," SEM (Denver, Colorado), Oct 2017  
+"La música en/y Pedro Lemebel", LASA (New York City, NY), May 2016  
+"Música, género y sexualidad: in memoriam Sheila Whiteley", ARLAC/IMS (Panel organizer and chair, Santiago de Chile), Jan 2016  
+"Spiteful Vocality in Cuban Bolero: An Analysis of Olga Guillot's Vocal Performance", SEM (Austin, TX), Dec 2015  
+"Nuevas escuchas: La música en la obra de Pedro Lemebel", III Simposio Pedro Lemebel. Nuevas lecturas (Santiago de Chile), Aug 2015  
+"The Pop Duet", 18th Biennial IASPM Conference (Campinas, Brazil), Jul 2015  
+"Somos mucho más que dos: copresencia mediada en el dueto de música popular", V Simposio Internacional de Estética (Santiago de Chile), Oct 2014  
+"Lucho Gatica: ¿el rey del bolero jazz?", IASPM-AL (Salvador, Brazil), Oct 2014  
+"Sounding the Carnivalesque: Changing Identities for a Sonic Icon of the Popular," LASA (Invited discussant of five papers, Chicago, IL),May 2014  
+"Hasta la verdad: Javiera Mena, kitsch y autenticidad," ASEMPCH (Santiago de Chile), Jan 2014  
+"Latin American bolero crooning and the technological mediation of sentimentalism," SEM (Panel organizer and chair, New Orleans, LA), Nov 2012  
+"Listening to male femininity in Lucho Gatica's boleros," LASA (Panel organizer and chair, San Francisco, CA), May 2012  
+"Chile's Revolution: Girl Style Now!," Experience Music Project Pop Conference (Panel organizer and chair, New York, NY), Mar 2012  
+“Sound, sentimentalism, and affect in mid-twentieth-century bolero,” Reading Emotions in Latin America: Interdisciplinary Approaches to the Representation of Affect. 3rd South by Midwest International Conference (St. Louis, MO), Apr 2011  
+“Flujos migratorios y tendencias recientes en la música latina de los Estados Unidos,” Congreso Chileno de Musicología (Santiago, Chile), Jan 2011  
+“Youth, Counterculture, and Cultural Politics in Post-Dictatorship Latin America,” LASA (Invited discussant of five papers, Toronto, Canada), Oct 2010  
+“Digan lo que digan: Queering popular music in 1960s Spain,” Midwest chapter of SEM (Chicago, IL), Apr 2010  
+“New Approaches to Teaching Latin American Music,” SEM (Roundtable organizer and presenter, Mexico City, Mexico), Nov 2009  
+“Spanish canción ligera: the (un)official music of the late Franco regime,” Colloque International Musique d'Etat et Dictature, Ecole des Hautes Etudes en Sciences Sociales (Paris, France), May 2009  
+“Spanish Popular Music During the Late Franco Dictatorship (1965-1975),” SEM (Middletown, CT), Oct 2008  
+“The Birth of Balada: Armando Manzanero and Bolero Historiography,” LASA (Panel organizer and chair, Montreal, Canada), Sep 2007  
+“Placeres Culpables: Guilty Pleasure in the Latin American balada revival,” LASA (San Juan, Puerto Rico), Mar 2006  
+“Guilty Pleasures: Camp, Cheese, and VH1 countdowns,” IASPM-US (Murfreesboro, TN), Feb 2006  
+“Maldita Primavera: Guilty Pleasure in the Latin American balada revival,” IASPM-US (Charlottesville, VA), Oct 2004  
+“Balada at the Crossroads: Latin-American popular music in Miami,” SEM (Miami, FL), Oct 2003  
+“Transnacionalización y la Balada Latinoamericana,” Congreso Chileno de Musicología (Santiago, Chile), Jan 2003  
+“A feminist reading of Bartók’s Duke Bluebeard’s Castle,” Penn-Columbia-Princeton-Cornell graduate student conference (Philadelphia, PA), Feb 2002  
+
