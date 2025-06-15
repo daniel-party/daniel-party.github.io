@@ -1,3 +1,7 @@
+---
+layout: home 
+---
+
 # About me
 I am a professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
 
