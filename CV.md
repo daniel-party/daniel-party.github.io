@@ -1,7 +1,3 @@
----
-title: Title
----
-
 # Curriculum Vitae
 
 ## Employment
