@@ -1,0 +1,9 @@
+# Site settings
+title: Daniel Party's website
+author:
+  name: Daniel Party
+  email: dparty@uc.cl
+description: "Personal website."
+
+# Build settings
+remote_theme: jekyll/minima
