@@ -1,7 +1,7 @@
 # Site settings
-title: "Título"
-author: "Autor"
-  name: "Nombre"
+title: Title
+author: Author
+  name: Name
   email: dparty@uc.cl
 description: "Personal website."
 
