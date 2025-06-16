@@ -29,4 +29,4 @@ Party, D. (2023). [The Right to Live in Peace: Musical Responses to Violence in 
 
 Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music](https://doi.org/10.1017/S1478572222000494)). _Twentieth-Century Music_, 20(1), 90-106.  
 
-# [Full CV](CV.md)
+# Full [Curriculum Vitae](CV.md)
