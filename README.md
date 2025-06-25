@@ -12,7 +12,7 @@ My research interests include popular music and culture of the Americas and Spai
 
 Currently, I am responsible researcher for the digital musicology project _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC 2025-2026).  
 
-And I am one of the principal researchers in the interdisciplinary [Millennium Nucleus in Musical and Sound Cultures](https://cmus.cl), a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025).  
+And I am one of the principal researchers in the interdisciplinary _Millennium Nucleus in Musical and Sound Cultures_, a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025).  
 
 # Manuscripts and recent publications
 Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_. Under review.  
