@@ -19,7 +19,7 @@ Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista
 
 Party, D. & Benavente, J. "Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos." Under review.  
 
-Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier. _Resonancias_, 29(56), 223-229.  
+Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
 Party, D. , & Díaz Pinto, A. M. (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
 
