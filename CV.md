@@ -53,11 +53,11 @@ Party, D. & Benavente, J. "Renovación de la conmemoración del golpe de estado 
 
 ### Published
 
-Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier. _Resonancias_, 29(56), 223-229.  
+Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
 Party, D. , & Díaz Pinto, A. M. (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
 
-Party, D., & Wolf, J. E. (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922)). _Revista Musical Chilena_, 77(240), 62-79.   
+Party, D., & Wolf, J. E. (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922). _Revista Musical Chilena_, 77(240), 62-79.   
 
 Party, D. (2023). [The Right to Live in Peace: Musical Responses to Violence in the 2019 Chilean Uprising](https://doi.org/10.1177/0094582X231176781). _Latin American Perspectives_, 50(3), 37-52.   
 
@@ -277,6 +277,8 @@ Music Department, Cornell University, Feb 2017
 
 
 ## Conference Presentations
+
+"Latinidad and the _Billboard_ Hot Latin Songs Chart (1986-2024)", 69th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
 "Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", IASPM-América Latina (Recife, Brasil), Sept 2024  
 
