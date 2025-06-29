@@ -49,7 +49,7 @@ B.S. in Physics, awarded with maximum distinction, Catholic University of Chile,
 
 Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_.  
 
-Party, D. & Benavente, J. "Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos." Book chapter.  
+Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter.  
 
 ### Published
 
