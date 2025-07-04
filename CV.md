@@ -4,6 +4,8 @@ layout: default
 
 # Curriculum Vitae
 
+[TOC]
+
 ## Employment
 
 ### Pontificia Universidad Católica de Chile
