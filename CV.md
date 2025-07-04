@@ -9,7 +9,7 @@ layout: default
 [Grants](#awards,-grants,-and-fellowships) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
 [Conferences](#conference-presentations) /
-[Advisees](#students-and-postdoctoral-advisees) /
+[Grad Students](#students-and-postdoctoral-advisees) /
 [Courses](#courses-taught) /
 [Media](#in-the-media) /
 [Service](#academic-and-evaluation-service)
