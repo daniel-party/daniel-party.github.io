@@ -4,7 +4,8 @@ layout: default
 
 # Curriculum Vitae
 
-[TOC]
+[Employment](##employment)
+[Publications](##publications)
 
 ## Employment
 
