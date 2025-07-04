@@ -4,8 +4,8 @@ layout: default
 
 # Curriculum Vitae
 
-[Employment](##employment)
-[Publications](##publications)
+[Employment](#employment)
+[Publications](#publications)
 
 ## Employment
 
