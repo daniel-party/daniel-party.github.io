@@ -139,9 +139,9 @@ Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A.
 
 ### Guest Editing
 
-Achondo, L. & Party, D., eds. (2025). Ecologías sonoras desde al Antropoceno latinoamericano (Dossier de documentos). _Resonancias_.  
+Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde el Antropoceno latinoamericano](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/) (Dossier de documentos). _Resonancias_. 29(56).
 
-Party, D. ed. (2015). Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto (Dossier de documentos). _Resonancias_ 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
+Party, D. ed. (2015). [Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto](https://resonancias.uc.cl/n-37/reflexiones-metodologicas-e-implicancias-subjetivas-en-la-construccion-del-objeto/) (Dossier de documentos). _Resonancias_ 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
 
 
 ## Awards, Grants, and Fellowships
@@ -453,9 +453,9 @@ Música popular y estudios de género (Diplomado en Estudios de Música Popular,
 
 ## In the Media
 
-"Beyond the Music: Daniel Party on Víctor Jara and the Many Facets of Musicology". Interview in Portal: Magazine of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Octobre 17, 2023.  
+["Beyond the Music: Daniel Party on Víctor Jara and the Many Facets of Musicology"](https://sites.utexas.edu/llilas-benson-magazine/2023/10/17/beyond-the-music-daniel-party-on-victor-jara-and-the-many-facets-of-musicology/). Interview in Portal: Magazine of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Octobre 17, 2023.  
 
-"Libros: Canciones que se escuchan entre el horror". Opinion piece in Ciper, October 4, 2023.  
+["Libros: Canciones que se escuchan entre el horror"](https://www.ciperchile.cl/2023/10/04/libros-canciones-que-se-escuchan-entre-el-horror/). Opinion piece in Ciper, October 4, 2023.  
 
 TV interview on Daddy Yankee's retirement announcement. Meganoticias, January 5, 2022.  
 
