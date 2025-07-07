@@ -31,7 +31,5 @@ Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music
 
 <p class="view"><a href="https://daniel-party.github.io/CV.html" aria-label="View full CV">
 
-<img src="assets/img/cv-icon.png" width="16" height="16" alt="Curriculum Vitae"/>
-
-Curriculum Vitae
+<img src="assets/img/cv-icon.png" width="32" height="32" alt="Curriculum Vitae"/>
 </a></p>   
