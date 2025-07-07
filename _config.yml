@@ -1,7 +1,7 @@
 # Site settings
 title: Daniel Party, Ph.D.
 logo: /assets/img/logo.png
-description: <img src="assets/img/Logo_College-UC-01.png" width="180" height="24"/><br>Director de Docencia / College<br>Profesor Asociado / College & Facultad de Artes<br>Pontificia Universidad Católica de Chile<p><img src="assets/img/Isologo CMUS_negro.png" width="158" height="24"/><br>Investigador Principal / Núcleo Milenio en Culturas Musicales y Sonoras</p>
+description: <p><img src="assets/img/Logo_College-UC-01.png" width="180" height="24"/><br>Director de Docencia / College<br>Profesor Asociado / College & Facultad de Artes<br>Pontificia Universidad Católica de Chile</p><p><img src="assets/img/Isologo CMUS_negro.png" width="158" height="24"/><br>Investigador Principal / Núcleo Milenio en Culturas Musicales y Sonoras</p>
 remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 
