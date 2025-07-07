@@ -29,4 +29,9 @@ Party, D. (2023). [The Right to Live in Peace: Musical Responses to Violence in 
 
 Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music](https://doi.org/10.1017/S1478572222000494). _Twentieth-Century Music_, 20(1), 90-106.
 
-![CV](assets/img/cv-icon.png "Title")
+<p class="view"><a href="https://daniel-party.github.io/CV.html" aria-label="View full CV">
+
+<img src="assets/img/cv-icon.png" width="16" height="16" alt="Curriculum Vitae"/>
+
+Curriculum Vitae
+</a></p>   
