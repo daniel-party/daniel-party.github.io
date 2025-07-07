@@ -84,7 +84,7 @@ Party, D. (2021). [El cover queer: cuestionar la heteronorma desde la voz cantad
 
 Robledo, J. P., Hawkins, S., Cornejo, C., Cross, I., Party, D., & Hurtado, E. (2021). [Musical improvisation enhances interpersonal coordination in subsequent conversation: Motor and speech evidence](https://doi.org/10.1371/journal.pone.0259704). _PLoS ONE_, 16(4).    
 
-Party, D. (2020). [Raphael es diferente: La canción melódica española en el tardofranquismo](https://dialnet.unirioja.es/servlet/articulo?codigo=786563). _Boletín del Instituto de Estudios Giennenses_, 221, 505-526. 3  
+Party, D. (2020). [Raphael es diferente: La canción melódica española en el tardofranquismo](https://dialnet.unirioja.es/servlet/articulo?codigo=7865633). _Boletín del Instituto de Estudios Giennenses_, 221, 505-526. 3  
 
 Party, D., & Achondo, L. (2020). Canciones y cantantes en la obra de Pedro Lemebel. In F. Blanco (Ed.), _La vida imitada: Narrativa, performance y visualidad en Pedro Lemebel_ (pp. 287-296). Vervuert Iberoamericana.   
 
