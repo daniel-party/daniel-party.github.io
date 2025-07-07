@@ -5,6 +5,7 @@ layout: default
 # Curriculum Vitae
 
 [Employment](#employment) /
+[Education](#education) /
 [Publications](#publications) /
 [Grants](#awards,-grants,-and-fellowships) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
