@@ -1,4 +1,4 @@
-# ![About me](assets/img/ORCID-iD_icon_32x32.png)About me
+# ![About me](assets/img/ORCID-iD_icon_32x32.png) About me
 I am a professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
 
 I have been a visiting professor at UT Austin,  Tulane, Brown, University of Oregon, and University of Georgia.  
