@@ -64,7 +64,7 @@ Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado c
 
 ### Published
 
-Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
+[Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
 Party, D. , & Díaz Pinto, A. M. (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
 
@@ -86,7 +86,7 @@ Robledo, J. P., Hawkins, S., Cornejo, C., Cross, I., Party, D., & Hurtado, E. (2
 
 Party, D. (2020). [Raphael es diferente: La canción melódica española en el tardofranquismo](https://dialnet.unirioja.es/servlet/articulo?codigo=7865633). _Boletín del Instituto de Estudios Giennenses_, 221, 505-526. 3  
 
-Party, D., & Achondo, L. (2020). Canciones y cantantes en la obra de Pedro Lemebel. In F. Blanco (Ed.), _La vida imitada: Narrativa, performance y visualidad en Pedro Lemebel_ (pp. 287-296). Vervuert Iberoamericana.   
+Party, D., & [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) (2020). Canciones y cantantes en la obra de Pedro Lemebel. In F. Blanco (Ed.), _La vida imitada: Narrativa, performance y visualidad en Pedro Lemebel_ (pp. 287-296). Vervuert Iberoamericana.   
 
 Party, D., & Kalawski, A. (2020). [Escenas contra la soledad: el diálogo en los duetos pop](https://doi.org/10.53689/cp.v2i1.16). Contrapulso: Revista latinoamericana de estudios en música popular, 2(2), 3-19.   
 
@@ -98,7 +98,7 @@ Party, D. (2018). [Inolvidables con Lucho Gatica (1958): un tributo jazzístico 
 
 Party, D. (2018). La miamización de la música pop latinoamericana. _Boletín Música_, 48-49, 3-19.   
 
-Party, D., & Achondo, L. (2017). La loca y sus cantantes: La ‘música alharaca’ en la obra de Pedro Lemebel. In R. Carreño (Ed.), _La rueda mágica: ensayos de música y literatura_ (pp. 155-168). Ediciones Universidad Alberto Hurtado.   
+Party, D., & [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) (2017). La loca y sus cantantes: La ‘música alharaca’ en la obra de Pedro Lemebel. In R. Carreño (Ed.), _La rueda mágica: ensayos de música y literatura_ (pp. 155-168). Ediciones Universidad Alberto Hurtado.   
 
 Party, D. (2017). Sheila Whiteley: musicóloga popular y feminista. _Revista Musical Chilena_, 71(227), 149-152.   
 
@@ -140,7 +140,7 @@ Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A.
 
 ### Guest Editing
 
-Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde el Antropoceno latinoamericano](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/) (Dossier de documentos). _Resonancias_. 29(56).
+[Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde el Antropoceno latinoamericano](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/) (Dossier de documentos). _Resonancias_. 29(56).
 
 Party, D. ed. (2015). [Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto](https://resonancias.uc.cl/n-37/reflexiones-metodologicas-e-implicancias-subjetivas-en-la-construccion-del-objeto/) (Dossier de documentos). _Resonancias_ 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
 
@@ -378,7 +378,7 @@ Music Department, Cornell University, Feb 2017
 
 ### Postdoctoral Advisees
 
-Luis Achondo. Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
+[Luis Achondo]([Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/). Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
 
 ### Ph.D. students
 
