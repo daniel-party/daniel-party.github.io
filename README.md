@@ -1,4 +1,4 @@
-# <img src="aboutme.png" width="16" height="16"> About me
+# <img src="assets/img/aboutme.png" width="16" height="16"> About me
 I am a professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
 
 I have been a visiting professor at UT Austin,  Tulane, Brown, University of Oregon, and University of Georgia.  
