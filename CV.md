@@ -18,6 +18,7 @@ layout: default
 ## Employment
 
 ### Pontificia Universidad Católica de Chile
+
 College UC, Director de Docencia, 2024-    
 
 College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
@@ -65,9 +66,9 @@ Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado c
 
 [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
-Party, D. , & Díaz Pinto, A. M. (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
+Party, D. , & [Díaz Pinto, A. M.](https://ucdavis.academia.edu/AnaMaríaDíazPinto) (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
 
-Party, D., & Wolf, J. E. (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922). _Revista Musical Chilena_, 77(240), 62-79.   
+Party, D., & [Wolf, J. E.](https://musicanddance.uoregon.edu/directory/faculty/all/ewolf2) (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922). _Revista Musical Chilena_, 77(240), 62-79.   
 
 Party, D. (2023). [The Right to Live in Peace: Musical Responses to Violence in the 2019 Chilean Uprising](https://doi.org/10.1177/0094582X231176781). _Latin American Perspectives_, 50(3), 37-52.   
 
@@ -75,9 +76,9 @@ Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music
 
 Party, D. (2022). [Y ¿cómo es él?: José Luis Perales y la crisis de la masculinidad de la Transición española](https://www.sibetrans.com/trans/articulo/618/y-como-es-el-jose-luis-perales-y-la-crisis-de-la-masculinidad-de-la-transicion-espanola). _Trans: Revista transcultural de música_, 26, 1-13.    
 
-Benavente, J., & Party, D. (2022). [Los Diablos Rojos de Víctor Jara: Un análisis coreográfico y musical](https://doi.org/10.7764/res.2022.51.5). Resonancias, 26(51), 97-117.    
+[Benavente, J.](https://uc-cl.academia.edu/JavieraBenavente), & Party, D. (2022). [Los Diablos Rojos de Víctor Jara: Un análisis coreográfico y musical](https://doi.org/10.7764/res.2022.51.5). Resonancias, 26(51), 97-117.    
 
-Kalawski, A., Party, D., & Opazo, C. (2021). [Experiencia de armario: Una lectura queer de dos dramas de Luis Alberto Heiremans](https://revistaliteratura.uchile.cl/index.php/RCL/article/view/65816). _Revista Chilena de Literatura_, (104), 643-669.    
+[Kalawski, A.](https://escueladeteatro.uc.cl/docentes/andres-kalawski-isla/), Party, D., & [Opazo, C.](https://letras.uc.cl/academicos/cristian-opazo/) (2021). [Experiencia de armario: Una lectura queer de dos dramas de Luis Alberto Heiremans](https://revistaliteratura.uchile.cl/index.php/RCL/article/view/65816). _Revista Chilena de Literatura_, (104), 643-669.    
 
 Party, D. (2021). [El cover queer: cuestionar la heteronorma desde la voz cantada](https://doi.org/10.7764/res.2021.49.12). _Resonancias_, 25(49), 177-181.   
 
@@ -87,7 +88,7 @@ Party, D. (2020). [Raphael es diferente: La canción melódica española en el t
 
 Party, D., & [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) (2020). Canciones y cantantes en la obra de Pedro Lemebel. In F. Blanco (Ed.), _La vida imitada: Narrativa, performance y visualidad en Pedro Lemebel_ (pp. 287-296). Vervuert Iberoamericana.   
 
-Party, D., & Kalawski, A. (2020). [Escenas contra la soledad: el diálogo en los duetos pop](https://doi.org/10.53689/cp.v2i1.16). Contrapulso: Revista latinoamericana de estudios en música popular, 2(2), 3-19.   
+Party, D., & [Kalawski, A.](https://escueladeteatro.uc.cl/docentes/andres-kalawski-isla/) (2020). [Escenas contra la soledad: el diálogo en los duetos pop](https://doi.org/10.53689/cp.v2i1.16). Contrapulso: Revista latinoamericana de estudios en música popular, 2(2), 3-19.   
 
 Party, D. (2019). [Homofobia y la Nueva Canción Chilena](http://revistascientificas2.filo.uba.ar/index.php/oidopensante/article/view/7560). _El Oído Pensante_, 7(2), 42-63.    
 
