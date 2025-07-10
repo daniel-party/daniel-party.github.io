@@ -386,17 +386,17 @@ Lydia Wagenknecht. Sounds of Climate Change in Punta Arenas, Ph.D. in Ethnomusic
 
 Rosario Bravo. Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
 
-Nelson Rodríguez. Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
+[Nelson Rodríguez](https://udec-cl.academia.edu/NelsonRodriguezVega). Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
 
-Javiera Benavente. Identidades en disputa: la danza - música de caporales y espacio transnacional andino, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
+[Javiera Benavente](https://uc-cl.academia.edu/JavieraBenavente). Identidades en disputa: la danza - música de caporales y espacio transnacional andino, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
 
-Federico Eisner. Puesta en música de poesía sonora: relaciones entre poesía sonora y música a través de las prácticas vocales experimentales, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019-2022.  
+[Federico Eisner](https://independent.academia.edu/FedericoEisnerSagüés). Puesta en música de poesía sonora: relaciones entre poesía sonora y música a través de las prácticas vocales experimentales, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019-2022.  
 
-José Miguel Candela. Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
+[José Miguel Candela](https://portafolio-academico.uchile.cl/perfil/26514-Jose-Miguel-Candela-Pavez). Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
 
 Christina Azahar. Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in Chile's Popular Music Scenes, Ph.D. in Ethnomusicology, Department of Music, University of California, Berkeley (committee member, and Fulbright Host), 2017-2021  
 
-Zamara Cuadros. El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
+[Zamara Cuadros](https://scholar.google.com/citations?user=WNCh5-wAAAAJ&hl=es). El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
 
 
 ### M.A. students
