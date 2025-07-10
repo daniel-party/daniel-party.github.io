@@ -1,4 +1,4 @@
-## <img src="assets/img/aboutme.png" width="32" height="32"> About me
+## <img src="assets/img/aboutme.png" width="24" height="24"> About me
 I am a professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
 
 I have been a visiting professor at UT Austin,  Tulane, Brown, University of Oregon, and University of Georgia.  
@@ -7,14 +7,14 @@ Between 2015 and 2019 I served as Director of Graduate Studies & Research for Un
 
 I earned my PhD at the University of Pennsylvania, and my undergradute degrees–a BS in Physics and a BA in Music–at Universidad Católica de Chile.  
 
-## <img src="assets/img/research.png" width="32" height="32"> Research Interests and Current Projects
+## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
 My research interests include popular music and culture of the Americas and Spain, gender and sexuality, and music and social movements.  
 
 Currently, I am responsible researcher for the digital musicology project _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC 2025-2026).  
 
 And I am one of the principal researchers in the interdisciplinary _Millennium Nucleus in Musical and Sound Cultures_, a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025).  
 
-## <img src="assets/img/publications.png" width="32" height="32"> Manuscripts and recent publications
+## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_. Under review.  
 
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Under review.  
