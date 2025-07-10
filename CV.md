@@ -18,7 +18,6 @@ layout: default
 ## Employment
 
 ### Pontificia Universidad Católica de Chile
-
 College UC, Director de Docencia, 2024-    
 
 College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
