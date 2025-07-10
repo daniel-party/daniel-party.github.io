@@ -378,7 +378,7 @@ Music Department, Cornell University, Feb 2017
 
 ### Postdoctoral Advisees
 
-[Luis Achondo]([Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/). Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
+[Luis Achondo](https://www.mun.ca/music/people/faculty/luis-achondo/). Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
 
 ### Ph.D. students
 
