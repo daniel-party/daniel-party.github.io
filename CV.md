@@ -58,11 +58,10 @@ B.S. in Physics, awarded with maximum distinction, Catholic University of Chile,
 
 ### Under review
 
-Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_.  
-
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter.  
 
 ### Published
+Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), accepted for publication.
 
 [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
