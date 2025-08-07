@@ -15,9 +15,9 @@ Currently, I am responsible researcher for the digital musicology project _Gende
 And I am one of the principal researchers in the interdisciplinary _Millennium Nucleus in Musical and Sound Cultures_, a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025).  
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
-Party, D. Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_. Under review.  
-
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Under review.  
+
+Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), accepted for publication.
 
 Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier). _Resonancias_, 29(56), 223-229.  
 
