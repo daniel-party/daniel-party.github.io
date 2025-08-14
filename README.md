@@ -5,7 +5,7 @@ I have been a visiting professor at UT Austin,  Tulane, Brown, University of Ore
 
 Between 2015 and 2019 I served as Director of Graduate Studies & Research for Universidad Católica's School of Arts.  
 
-I earned my PhD at the University of Pennsylvania, and my undergradute degrees–a BS in Physics and a BA in Music–at Universidad Católica de Chile.  
+I earned my PhD at the University of Pennsylvania, and my undergraduate degrees–a BS in Physics and a BA in Music–at Universidad Católica de Chile.  
 
 ## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
 My research interests include popular music and culture of the Americas and Spain, gender and sexuality, and music and social movements.  
