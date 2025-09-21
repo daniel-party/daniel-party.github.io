@@ -210,6 +210,8 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 ## Invited Guest Lectures and Workshops
 
+"'Algunos nos inclinamos por el lila': Fragmentos cuir en la vida de Víctor Jara", Instituto de Música, Pontificia Universidad Católica de Valparaíso, Oct 2025
+
 "Brechas de género en el ránking latino de Billboard (1987-2024)", Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025  
 
 "Los Diablos Rojos de Víctor Jara: un análisis coreográfico y musical" (with Javiera Benavente), Simposio Internacional Bandas de bronces y movimientos sociales, Pontificia Universidad Católica de Valparaíso, Dec 2024  
