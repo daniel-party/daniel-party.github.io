@@ -220,7 +220,7 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 Haverford College, Sept 2024  
 
-Lanzamiento Revista Musical Chilena N° 240 (roundtable), Aug 2024   
+"[Música, estudios y perspectiva de género](https://www.youtube.com/watch?v=VGX8cdYZHKc),"Lanzamiento Revista Musical Chilena N° 240 (roundtable), Aug 2024   
 
 "Las vidas de Víctor Jara: obra y legado", Conversatorio, Casa Memoria de Valparaíso, Nov 2023  
 
