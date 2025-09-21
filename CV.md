@@ -216,7 +216,7 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 "Los Diablos Rojos de Víctor Jara: un análisis coreográfico y musical" (with Javiera Benavente), Simposio Internacional Bandas de bronces y movimientos sociales, Pontificia Universidad Católica de Valparaíso, Dec 2024  
 
-Music Department, University of Pennsylvania, Sept 2024  
+"[Queering Víctor Jara](https://music.sas.upenn.edu/events/2024/09/10/daniel-party)," Music Department, University of Pennsylvania, Sept 2024  
 
 Haverford College, Sept 2024  
 
