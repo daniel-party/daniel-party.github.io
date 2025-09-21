@@ -232,15 +232,15 @@ Association of Graduate Ethno/Musicology Students Colloquium, Butler School of M
 
 Ethnomusicology Roundtable, Faculty of Music, University of Toronto, Mar 2023  
 
-Seminario Permanente de Música y Género, Facultad de Música, Universidad Autónoma de México, Mar 2023  
+[Seminario Permanente de Música y Género](https://www.youtube.com/watch?v=ECOLFU69lvc), Facultad de Música, Universidad Autónoma de México, Mar 2023  
 
 Department of Spanish & Portuguese, Tulane University, Feb 2023  
 
-LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Jan 2023  
+"[Víctor Jara: Beyond the Martyr](https://www.youtube.com/watch?v=b1y4koS-hXE),"LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Jan 2023  
 
 Encuentro de saberes para la equidad de género (roundtable), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, Nov 2022  
 
-"Cantos por Travesura: Humor y picardía en Víctor Jara." Semana de la musicología, Instituto de Música UC, Oct 2021  
+"[Cantos por Travesura: Humor y picardía en Víctor Jara](https://www.youtube.com/watch?v=BVzYZBH6_TM)," Semana de la musicología, Instituto de Música UC, Oct 2021  
 
 "Boleros de mujer." Teatro del Lago, Frutillar, Sep 2021  
 
