@@ -242,7 +242,7 @@ Encuentro de saberes para la equidad de género (roundtable), Vicerrectoría de 
 
 "[Cantos por Travesura: Humor y picardía en Víctor Jara](https://www.youtube.com/watch?v=BVzYZBH6_TM)," Semana de la musicología, Instituto de Música UC, Oct 2021  
 
-"Boleros de mujer." Teatro del Lago, Frutillar, Sep 2021  
+"[Boleros de mujer](https://www.youtube.com/watch?v=qfKffHxKtLA&list=RDqfKffHxKtLA&start_radio=1)," Teatro del Lago, Frutillar, Sep 2021  
 
 "Diálogos sobre la voz: La pregunta sobre el género." Corporación Cultural Matucana 100, Aug 2020.  
 
