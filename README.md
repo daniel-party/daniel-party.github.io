@@ -17,7 +17,7 @@ And I am one of the principal researchers in the interdisciplinary _Millennium N
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
 
-Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Under review.  
+Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review.  
 
 Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), accepted for publication.
 
