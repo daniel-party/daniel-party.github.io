@@ -7,7 +7,7 @@ layout: default
 [Employment](#employment) /
 [Education](#education) /
 [Publications](#publications) /
-[Grants](#awards,-grants,-and-fellowships) /
+[Grants](#teaching-awards) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
 [Conferences](#conference-presentations) /
 [Grad Students](#students-and-postdoctoral-advisees) /
