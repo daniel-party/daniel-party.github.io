@@ -209,6 +209,7 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 
 ## Invited Guest Lectures and Workshops
+"Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)", Workshop _Materialities, Practices and Industries in Popular Music_, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
 
 "'Algunos nos inclinamos por el lila': Fragmentos cuir en la vida de Víctor Jara", Instituto de Música, Pontificia Universidad Católica de Valparaíso, Oct 2025
 
