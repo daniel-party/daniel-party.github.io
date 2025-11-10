@@ -294,6 +294,8 @@ Music Department, Cornell University, Feb 2017
 
 ## Conference Presentations
 
+"Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)", LASA Congress (Paris, France), May 2026
+
 "Latinidad and the _Billboard_ Hot Latin Songs Chart (1986-2024)", 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
 "Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", IASPM-América Latina (Recife, Brasil), Sept 2024  
