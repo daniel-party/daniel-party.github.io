@@ -486,7 +486,9 @@ TV Interview on Michael Jackson’s Thriller 25th Anniversary Edition. WSBT Even
 
 ### Academic Service
 
-Subdirector Académico, Licenciatura en Artes y Humanidades, College UC, Pontificia Universidad Católica de Chile, 2022-  
+Director de Docencia, College UC, Pontificia Universidad Católica de Chile, 2024-  
+
+Subdirector Académico, Licenciatura en Artes y Humanidades, College UC, Pontificia Universidad Católica de Chile, 2022-2024  
 
 Member, Comisión Académica, Proyecto Innovación en Educación Superior para la Igualdad de Género en el ámbito de la I+D+i+e (InES Género), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2022-  
 
@@ -494,7 +496,7 @@ Director interino, College UC, Pontificia Universidad Católica de Chile, 2022
 
 Jury member, XII Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2022  
 
-Secretario Académico, College UC, Pontificia Universidad Católica de Chile, 2020  
+Secretario Académico ad-hoc, College UC, Pontificia Universidad Católica de Chile, 2020  
 
 Director of Graduate Studies and Research, Facultad de Artes, Pontificia Universidad Católica de Chile, 2015-2019    
 
@@ -504,7 +506,7 @@ Coordinator, Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2018
 
 Editorial Board Member, Diagonal: An Ibero-American Music Review, Center for Iberian and Latin American Music at the University of California, Riverside, 2015-  
 
-Member, College UC Advisory Board, Pontificia Universidad Católica de Chile, 2014-     
+Member, College UC Advisory Board, Pontificia Universidad Católica de Chile, 2014-2021     
 
 Editorial Board Member, Revista Resonancias, Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
 
