@@ -21,9 +21,11 @@ layout: default
 
 College UC, Director de Docencia, 2024-    
 
+College UC & Instituto de Música (joint apppointment), Full Professor, 2025-  
+
 College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
 
-College UC & Instituto de Música (joint apppointment), Associate Professor, 2022-  
+College UC & Instituto de Música (joint apppointment), Associate Professor, 2022-2025  
 
 Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
 
