@@ -1,5 +1,5 @@
 ## <img src="assets/img/aboutme.png" width="24" height="24"> About me
-I am a professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
+I am a full professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
 
 I have been a visiting professor at UT Austin,  Tulane, Brown, University of Oregon, and University of Georgia.  
 
