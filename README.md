@@ -12,7 +12,7 @@ My research interests include popular music and culture of the Americas and Spai
 
 Currently, I am responsible researcher for the digital musicology project _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC 2025-2026).  
 
-And I am one of the principal researchers in the interdisciplinary [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl), a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025) that has recently been renewed for three more years (NCS2025_65, 2025-2027).
+And I am one of the principal researchers in the interdisciplinary [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl), a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025) that has recently been renewed for three more years (NCS2025_65, 2025-2028).
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
