@@ -156,7 +156,7 @@ Most Promising Teacher of Writing Award, Critical Writing Program, University of
 
 
 ### Research Grants
-[Millenium Nucleus in Musical and Sound Cultures](https://cmus.cl), Iniciativa Científica Milenio ANID NCS2025_65, principal researcher, 2025-2027  
+[Millenium Nucleus in Musical and Sound Cultures](https://cmus.cl), Iniciativa Científica Milenio ANID NCS2025_65, principal researcher, 2025-2028  
 
 Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
 
