@@ -298,9 +298,9 @@ Music Department, Cornell University, Feb 2017
 
 "Latinidad and the _Billboard_ Hot Latin Songs Chart (1986-2024)", 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
-"Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", IASPM-América Latina (Recife, Brasil), Sept 2024  
+"Armando Manzanero, Eduardo Magallanes y la producción de un bolero pop en 1967", XVI IASPM-América Latina (Recife, Brasil), Sept 2024  
 
-"Música y conmemoración a 50 años del golpe de Estado chileno", ARLAC/IMS (Panel organizer and chair, Ciudad de México, México), Aug 2024  
+"Música y conmemoración a 50 años del golpe de Estado chileno", VI Congreso ARLAC/IMS (Panel organizer and chair, Ciudad de México, México), Aug 2024  
 
 "La modernización del bolero moderno: Manzanero en 1967", Coloquio Académico Armando Manzanero: Trayectoria y Legado (Mérida, México), Dec 2023  
 
