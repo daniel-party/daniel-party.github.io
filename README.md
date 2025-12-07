@@ -23,7 +23,7 @@ Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. 
 
 Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier). _Resonancias_, 29(56), 223-229.  
 
-Party, D. , & Díaz Pinto, A. M. (2025). [Twenty-first century Latin/o American Popular Music](https://musicsoflatinamerica.org/sections-chapters/twenty-first-century-latin-american-and-latino-popular-music/). In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_.  
+Party, D. , & Díaz Pinto, A. M. (2025). [Twenty-first Century Latin/o American Popular Music](https://musicsoflatinamerica.org/sections-chapters/twenty-first-century-latin-american-and-latino-popular-music/). In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_.  
 
 Party, D., & Wolf, J. E. (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922). _Revista Musical Chilena_, 77(240), 62-79.   
 
