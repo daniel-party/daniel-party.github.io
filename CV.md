@@ -220,7 +220,7 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 "[Queering Víctor Jara](https://music.sas.upenn.edu/events/2024/09/10/daniel-party)," Music Department, University of Pennsylvania, Sept 2024  
 
-Haverford College, Sept 2024  
+"Queering Víctor Jara." Music, Power, & 9/11: la Canción Protesta de Victor Jara & the Chilean Coup of 1973.  Haverford College, Sept 2024  
 
 "[Música, estudios y perspectiva de género](https://www.youtube.com/watch?v=VGX8cdYZHKc),"Lanzamiento Revista Musical Chilena N° 240 (roundtable), Aug 2024   
 
