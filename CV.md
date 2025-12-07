@@ -65,7 +65,7 @@ Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória 
 ### Published
 Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), accepted for publication.
 
-[Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
+[Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
 Party, D. , & [Díaz Pinto, A. M.](https://ucdavis.academia.edu/AnaMaríaDíazPinto) (2025). Twenty-first century Latin/o American Popular Music. In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_ (in press).  
 
