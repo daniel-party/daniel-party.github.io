@@ -1,11 +1,11 @@
 ## <img src="assets/img/aboutme.png" width="24" height="24"> About me
-I am a full professor at Universidad Católica de Chile, where I hold a joint appointment in the College and Music. Before that I taught in the Music Department at Saint Mary's College (Indiana, USA).  
+I am a musicologist and a full professor at Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música. 
 
-I have been a visiting professor at UT Austin,  Tulane, Brown, University of Oregon, and University of Georgia.  
+My academic background includes studies in physics and classical guitar, followed by a Ph.D. in Music History from the University of Pennsylvania. 
 
-Between 2015 and 2019 I served as Director of Graduate Studies & Research for Universidad Católica's School of Arts.  
+My career began at Saint Mary’s College in Indiana, and I have held visiting positions at the University of Texas at Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. 
 
-I earned my PhD at the University of Pennsylvania, and my undergraduate degrees–a BS in Physics and a BA in Music–at Universidad Católica de Chile.  
+I currently serve as [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC.
 
 ## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
 My research interests include popular music and culture of the Americas and Spain, gender and sexuality, and music and social movements.  
