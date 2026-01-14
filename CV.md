@@ -141,6 +141,8 @@ Party, D. (2008). The Miamization of Latin-American pop music. In I. Corona & A.
 
 ### Guest Editing
 
+Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
+
 [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D., eds. (2025). [Ecologías sonoras desde el Antropoceno latinoamericano](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/) (Dossier de documentos). _Resonancias_. 29(56).
 
 Party, D. ed. (2015). [Reflexiones metodológicas e implicancias subjetivas en la construcción del objeto](https://resonancias.uc.cl/n-37/reflexiones-metodologicas-e-implicancias-subjetivas-en-la-construccion-del-objeto/) (Dossier de documentos). _Resonancias_ 19(37), pp. 135-157. http://doi.org/10.7764/res.2015.37.7   
@@ -210,6 +212,8 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 
 ## Invited Guest Lectures and Workshops
+"Siempre será canción nueva. Encuentros con Victor Jara a 33 años del nacimiento de la Fundación", Conversatorio, Fundación Víctor Jara, Enero 2026
+
 "Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)", Workshop _Materialities, Practices and Industries in Popular Music_, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
 
 "'Algunos nos inclinamos por el lila': Fragmentos cuir en la vida de Víctor Jara", Instituto de Música, Pontificia Universidad Católica de Valparaíso, Oct 2025
