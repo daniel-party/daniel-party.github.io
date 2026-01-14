@@ -1,5 +1,5 @@
 ## <img src="assets/img/aboutme.png" width="24" height="24"> About me
-I am a musicologist and full professor at the Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música.
+I am a musicologist and full professor at Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música.
 
 My academic path began with studies in physics and classical guitar before I pursued a Ph.D. in Music History at the University of Pennsylvania.
 
