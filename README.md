@@ -1,9 +1,9 @@
 ## <img src="assets/img/aboutme.png" width="24" height="24"> About me
-I am a musicologist and a full professor at Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música. 
+I am a musicologist and full professor at the Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música.
 
-My academic background includes studies in physics and classical guitar, followed by a Ph.D. in Music History from the University of Pennsylvania. 
+My academic path began with studies in physics and classical guitar before I pursued a Ph.D. in Music History at the University of Pennsylvania.
 
-My career began at Saint Mary’s College in Indiana, and I have held visiting positions at the University of Texas at Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. 
+I started my career at Saint Mary’s College in Indiana, and I have held visiting positions at the University of Texas at Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. 
 
 I currently serve as [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC.
 
