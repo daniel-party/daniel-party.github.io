@@ -8,18 +8,20 @@ I started my career at Saint Mary’s College in Indiana, and I have held visiti
 I currently serve as [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC.
 
 ## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
-My research interests include popular music and culture of the Americas and Spain, gender and sexuality, and music and social movements.  
+My research focuses on popular music in the Américas and Spain, with particular emphasis on gender, sexuality, and the cultural and political work performed by music within social movements. 
 
-Currently, I am responsible researcher for the digital musicology project _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC 2025-2026).  
+My recent scholarship has examined the life and music of Víctor Jara, questions of gender performance in Latin American popular music, and broader intersections between sound, identity, and activism.
 
-And I am one of the principal researchers in the interdisciplinary [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl), a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025) that has recently been renewed for three more years (NCS2025_65, 2025-2028).
+Currently, I am responsible researcher for the digital musicology project _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC 2025-2026). 
+
+And I am one of the principal investigators in the interdisciplinary [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl), a three-year study funded by ANID's Iniciativa Científica Milenio (NCS2022_016, 2023-2025) that has recently been renewed for three more years (NCS2025_65, 2025-2028).
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
 
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review.  
 
-Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), accepted for publication.
+Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), in press.
 
 Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier). _Resonancias_, 29(56), 223-229.  
 
