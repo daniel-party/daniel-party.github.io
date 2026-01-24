@@ -19,9 +19,8 @@ Currently, I am engaged in the following research projects:
 - _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, co-researcher, 2026-2028)
 
 - [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, principal researcher, 2025-2028).
+
 - _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, principal researcher, 2025-2026) 
-
-
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
