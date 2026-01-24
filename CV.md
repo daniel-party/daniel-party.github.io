@@ -158,6 +158,10 @@ Most Promising Teacher of Writing Award, Critical Writing Program, University of
 
 
 ### Research Grants
+Gender Gap and Gender Performance in Latin Collaborative Songs, FONDECYT Regular 1260561, principal researcher, 2026-2029
+
+Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970), FONDECYT Regular 1262333, co-researcher, 2026-2028
+
 [Millenium Nucleus in Musical and Sound Cultures](https://cmus.cl), Iniciativa Científica Milenio ANID NCS2025_65, principal researcher, 2025-2028  
 
 Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
