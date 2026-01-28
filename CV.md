@@ -63,7 +63,7 @@ Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado c
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
 
 ### Published
-Party, D. (2025). Nuevas aproximaciones a Víctor Jara a 50 años de su muerte. _Revista Musical Chilena_, 79(244), in press.
+Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a 50 años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
 
 [Achondo, L.](https://www.mun.ca/music/people/faculty/luis-achondo/) & Party, D. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier/). _Resonancias_, 29(56), 223-229.  
 
