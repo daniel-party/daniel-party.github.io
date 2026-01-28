@@ -27,7 +27,7 @@ Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória 
 
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review.  
 
-Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a 50 años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
+Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a cincuenta años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
 
 Achondo, L. & Party, D., eds. (2025). [Ecologías sonoras desde al Antropoceno latinoamericano: Una introducción al dossier](https://resonancias.uc.cl/n-56/ecologias-sonoras-desde-el-antropoceno-latinoamericano-una-introduccion-al-dossier). _Resonancias_, 29(56), 223-229.  
 
