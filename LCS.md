@@ -7,13 +7,11 @@ Fondecyt Regular 1260561, 2026-2029
 
 [Researchers](#researchers) /
 [Research Assistants](#research-assistants) /
+[Thesis Students](#Thesis-students) /
 [Publications](#publications) /
-[Grants](#teaching-awards) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
 [Conferences](#conference-presentations) /
-[Thesis Students](#Thesis students) /
 [Media](#in-the-media) /
-[Service](#academic-and-evaluation-service)
 
 ## Researchers
 Daniel Party, Responsible Researcher
