@@ -15,7 +15,7 @@ Fondecyt Regular 1260561, 2026-2029
 
 ## Researchers
 Daniel Party, Responsible Researcher  
-María Fernanda Ramírez, Co-Researcher
+[María Fernanda Ramírez](https://sites.google.com/site/ramirezespinozafernanda/sobre-mi), Co-Researcher
 
 ## Research assistants
 Diego Olivares
