@@ -158,7 +158,7 @@ Most Promising Teacher of Writing Award, Critical Writing Program, University of
 
 
 ### Research Grants
-Gender Gap and Gender Performance in Latin Collaborative Songs, FONDECYT Regular 1260561, principal researcher, 2026-2029
+[Gender Gap and Gender Performance in Latin Collaborative Songs](https://daniel-party.github.io/LCS.html), FONDECYT Regular 1260561, principal researcher, 2026-2029
 
 Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970), FONDECYT Regular 1262333, co-researcher, 2026-2028
 
