@@ -5,9 +5,20 @@ layout: default
 # Gender Gap and Gender Performance in Latin Collaborative Songs
 4-year research project (2026-2029) funded by ANID Fondecyt Regular (1260561) 
 
-<details>
+[Project Abstract](#project-abstract) /
+[Researchers](#researchers) /
+[Research Assistants](#research-assistants) /
+[Thesis Students](#Thesis-students) /
+[Publications](#publications) /
+[Guest Lectures](#invited-guest-lectures-and-workshops) /
+[Conferences](#conference-presentations) /
+[Media](#in-the-media) /
 
-<summary>Project abstract</summary>
+## Project abstract
+
+<details>
+  
+<!-- <summary>Project abstract</summary> -->
 
 One of the most notable developments in recorded popular music in the twenty-first century has been the exponential increase in the popularity of collaborative songs. Following Duguay, this study defines collaborative song as one that is recorded by and credited to two or more independent acts. While credited collaborations are not a novel phenomenon in popular music–duets and other forms of joint performance have been present since the early days of commercially available recorded music in the early twentieth century–the prevalence of such collaborations has grown markedly since the late 1990s. This trend is particularly evident in the increasing proportion of collaborative tracks appearing at the top of popularity charts.  
 
@@ -23,13 +34,6 @@ This proposal presents two primary scientific novelties: it constitutes the firs
 
 </details>
 
-[Researchers](#researchers) /
-[Research Assistants](#research-assistants) /
-[Thesis Students](#Thesis-students) /
-[Publications](#publications) /
-[Guest Lectures](#invited-guest-lectures-and-workshops) /
-[Conferences](#conference-presentations) /
-[Media](#in-the-media) /
 
 ## Researchers
 Daniel Party, Responsible Researcher  
