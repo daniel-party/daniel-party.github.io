@@ -53,6 +53,7 @@ Diego Olivares
 
 
 ## Publications
+Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
 
 ## Invited Guest Lectures and Workshops
 “Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)”, Workshop Materialities, Practices and Industries in Popular Music, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
