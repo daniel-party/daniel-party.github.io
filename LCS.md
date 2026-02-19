@@ -30,9 +30,10 @@ layout: default
 
 <p>This project is a gender-based study of Latin collaborative songs produced over the past four decades (1986–2026). It adopts a dual methodological approach: a quantitative examination of gender gaps and a qualitative exploration of gendered performances. The quantitative component aims to assess the relationship between collaborative song formats and gender gaps in representation. Drawing on digital humanities methods, we will measure and interpret the presence of women in collaborative songs as reflected in popularity charts. To further investigate the underlying dynamics, we will employ variance decomposition techniques—commonly used in economics to analyze intergroup outcome differentials—to identify potential explanatory factors for observed gender gaps. The qualitative component seeks to determine whether gendered differences exist in the roles performed by men and women in collaborative songs, and how these roles may have evolved over time. This qualitative analysis will utilize musicological methods, including close listening and the analysis of lyrics, musical structure, performance, production, and mixing.</p>
 
-<p>This proposal presents two primary scientific novelties: it constitutes the first empirical investigation of gender disparities in Spanish-language collaborative songs, and it offers the first comprehensive musicological analysis of the gender roles performed within these collaborations, including their evolution over time.<p>
+<p>This proposal presents two primary scientific novelties: it constitutes the first empirical investigation of gender disparities in Spanish-language collaborative songs, and it offers the first comprehensive musicological analysis of the gender roles performed within these collaborations, including their evolution over time.</p>
 
-</details>  
+</details>
+
 <br>
 
 ## Researchers
