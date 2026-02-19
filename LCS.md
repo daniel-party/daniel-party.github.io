@@ -19,8 +19,7 @@ layout: default
 <details>
   
 <summary>Click to display the abstract</summary>
-
-
+<br>
 One of the most notable developments in recorded popular music in the twenty-first century has been the exponential increase in the popularity of collaborative songs. Following Duguay, this study defines collaborative song as one that is recorded by and credited to two or more independent acts. While credited collaborations are not a novel phenomenon in popular music–duets and other forms of joint performance have been present since the early days of commercially available recorded music in the early twentieth century–the prevalence of such collaborations has grown markedly since the late 1990s. This trend is particularly evident in the increasing proportion of collaborative tracks appearing at the top of popularity charts.  
 
 In Spanish-language popular music, this trend is even more pronounced. One useful metric for assessing this phenomenon is Billboard’s Hot Latin Songs chart, which tracks the popularity of Spanish-language songs in the United States. In the year-end Top 10 rankings, collaborative songs accounted for 70% of entries in 2017, 90% in 2018, and reached 100% in 2019. A notable recent example occurred in June 2024, when a Chilean song reached the number one position on the Hot Latin Songs chart for the first time in 34 years. Unsurprisingly, the track—"Gata Only" by FloyyMenor and Chris MJ—was a collaborative song, further underscoring the dominance of this format in the contemporary Latin music landscape.  
