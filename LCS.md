@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Gender Gap and Gender Performance in Latin Collaborative Songs
-4-year research project (2026-2029) funded by ANID Fondecyt Regular (1260561) 
+### 4-year research project (2026-2029) funded by ANID Fondecyt Regular (1260561) 
 
 [Project Abstract](#project-abstract) /
 [Researchers](#researchers) /
