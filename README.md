@@ -14,7 +14,7 @@ My recent scholarship has examined the life and music of Víctor Jara, questions
 
 Currently, I am engaged in the following research projects: 
 
-- _Gender Gap and Gender Performance in Latin Collaborative Songs_ (FONDECYT Regular 1260561, principal researcher, 2026-2029)
+- [_Gender Gap and Gender Performance in Latin Collaborative Songs_](https://daniel-party.github.io/LCS.html) (FONDECYT Regular 1260561, principal researcher, 2026-2029)
 
 - _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, co-researcher, 2026-2028)
 
