@@ -35,10 +35,14 @@ layout: default
 Daniel Party, Responsible Researcher  
 
 ## Research assistants
-Diego Olivares
+
 
 ## Thesis students
+Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2024.  
 
+Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022.  
+
+Carolina Valdivia Gallardo. Licenciatura en Música, mención Musicología at Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile.
 
 ## Publications
 Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a cincuenta años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
@@ -55,11 +59,7 @@ Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music
 ## Invited Guest Lectures and Workshops
 "Siempre será canción nueva. Encuentros con Victor Jara a 33 años del nacimiento de la Fundación", Conversatorio, Fundación Víctor Jara, Enero 2026
 
-"Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)", Workshop _Materialities, Practices and Industries in Popular Music_, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
-
 "'Algunos nos inclinamos por el lila': Fragmentos cuir en la vida de Víctor Jara", Instituto de Música, Pontificia Universidad Católica de Valparaíso, Oct 2025
-
-"Brechas de género en el ránking latino de Billboard (1987-2024)", Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025  
 
 "Los Diablos Rojos de Víctor Jara: un análisis coreográfico y musical" (with Javiera Benavente), Simposio Internacional Bandas de bronces y movimientos sociales, Pontificia Universidad Católica de Valparaíso, Dec 2024  
 
@@ -85,10 +85,13 @@ Department of Spanish & Portuguese, Tulane University, Feb 2023
 
 "[Víctor Jara: Beyond the Martyr](https://www.youtube.com/watch?v=b1y4koS-hXE),"LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, Jan 2023  
 
-Encuentro de saberes para la equidad de género (roundtable), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, Nov 2022  
-
 "[Cantos por Travesura: Humor y picardía en Víctor Jara](https://www.youtube.com/watch?v=BVzYZBH6_TM)," Semana de la musicología, Instituto de Música UC, Oct 2021  
-## Conference presentations
-“Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)”, LASA Congress (Paris, France), May 2026
 
-“Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
+## Conference presentations
+"Música y conmemoración a 50 años del golpe de Estado chileno", VI Congreso ARLAC/IMS (Panel organizer and chair, Ciudad de México, México), Aug 2024  
+
+"Víctor Jara, el Partido Comunista y lo mapuche: entre solidaridad y pastoralismo folklórico" (with Luis Achondo), Congreso de SIBE/IASPM-España/ICTM España (Granada, España), Nov 2023  
+
+"Humor y folclore en Víctor Jara", Congreso de SIBE/IASPM-España/ICTM España (Granada, España), Nov 2023  
+
+"Víctor Jara’s Bawdy Humor", 67th Annual Meeting of the SEM (Panel organizer and chair, New Orleans, LA), Nov 2022  
