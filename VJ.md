@@ -35,7 +35,11 @@ layout: default
 Daniel Party, Responsible Researcher  
 
 ## Research assistants
+Gabriel Rammsy
 
+Montserrat Venegas
+
+Ana María Díaz
 
 ## Thesis students
 Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2024.  
