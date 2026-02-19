@@ -42,9 +42,9 @@ Montserrat Venegas
 Ana María Díaz
 
 ## Thesis students
-Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2024.  
+Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile.  
 
-Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022.  
+Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile.
 
 Carolina Valdivia Gallardo. Licenciatura en Música, mención Musicología at Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile.
 
