@@ -168,7 +168,7 @@ Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectorí
 
 Millenium Nucleus in Musical and Sound Cultures, Iniciativa Científica Milenio ANID NCS2022_016, principal researcher, 2023-2025  
 
-Gender Performance in the Music of Víctor Jara, FONDECYT Regular 1220146, principal researcher, 2022-2025  
+[Gender Performance in the Music of Víctor Jara](https://daniel-party.github.io/VJ.html), FONDECYT Regular 1220146, principal researcher, 2022-2025  
 
 Núcleo Milenio Arte, Performatividad y Activismo (Universidad Católica-Universidad Austral), Iniciativa Científica Milenio ANID, adjunct researcher, 2018-2021 
 
