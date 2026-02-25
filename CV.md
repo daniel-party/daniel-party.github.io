@@ -25,7 +25,7 @@ College UC & Instituto de Música (joint apppointment), Associate Professor, 202
 
 Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
 
-<ul><b>Administrative Positions</b></ul>
+<ul>#### Administrative Positions</ul>
 
 <ul>College UC, Director de Docencia, 2024-</ul>
 
