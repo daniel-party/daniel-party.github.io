@@ -19,9 +19,9 @@ layout: default
 
 ### Pontificia Universidad Católica de Chile
 
-College UC & Instituto de Música (joint apppointment), Full Professor, 2025-
+College UC & Instituto de Música (joint appointment), Full Professor, 2025-
 
-College UC & Instituto de Música (joint apppointment), Associate Professor, 2022-2025
+College UC & Instituto de Música (joint appointment), Associate Professor, 2022-2025
 
 Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
 
