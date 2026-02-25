@@ -19,13 +19,17 @@ layout: default
 
 ### Pontificia Universidad Católica de Chile
 
+College UC & Instituto de Música (joint apppointment), Full Professor since 2025, Associate Professor, 2022-2025
+
+Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
+
+**Administrative Positions**
+
 College UC, Director de Docencia, 2024-    
 
 College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
 
-College UC & Instituto de Música (joint apppointment), Full Professor since 2025, Associate Professor, 2022-2025
-
-Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021  
+Facultad de Artes, Director de Investigación y Postgrado, 2015-2019
 
 ### Saint Mary’s College (Indiana, USA)
 
