@@ -27,9 +27,9 @@ Instituto de Música, Facultad de Artes, Associate Professor, 2013-2021
 
 <ul>College UC, Director de Docencia, 2024-</ul>
 
-College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024  
+<ul>College UC, Subdirector Académico, Licenciatura en Artes y Humanidades, 2022-2024</ul>  
 
-Facultad de Artes, Director de Investigación y Postgrado, 2015-2019
+<ul>Facultad de Artes, Director de Investigación y Postgrado, 2015-2019</ul>
 
 ### Saint Mary’s College (Indiana, USA)
 
