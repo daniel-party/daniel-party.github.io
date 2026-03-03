@@ -474,7 +474,7 @@ Música popular y estudios de género (Diplomado en Estudios de Música Popular,
 
 
 ## In the Media
-Documentary interview, ["Alberto Plaza: Figura fundamental de la Música Chilena SCD 2025"](https://www.youtube.com/watch?v=bePRrLNwEd0&list=RDbePRrLNwEd0&start_radio=1), Sociedad Chilena del Derecho de Autor, March 2, 2026.
+["Alberto Plaza: Figura fundamental de la Música Chilena SCD 2025"](https://www.youtube.com/watch?v=bePRrLNwEd0&list=RDbePRrLNwEd0&start_radio=1). Interview in Documentary, Sociedad Chilena del Derecho de Autor, March 2, 2026.
 
 ["Beyond the Music: Daniel Party on Víctor Jara and the Many Facets of Musicology"](https://sites.utexas.edu/llilas-benson-magazine/2023/10/17/beyond-the-music-daniel-party-on-victor-jara-and-the-many-facets-of-musicology/). Interview in Portal: Magazine of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, October 17, 2023.  
 
