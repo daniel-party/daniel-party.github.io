@@ -482,7 +482,7 @@ Música popular y estudios de género (Diplomado en Estudios de Música Popular,
 
 TV interview on Daddy Yankee's retirement announcement. Meganoticias, January 5, 2022.  
 
-Three brief capsules on the uses of music in the October 2019 "Estallido social," Media UC on YouTube, December 30, 2019.  
+Three brief capsules ([1](https://www.youtube.com/watch?v=jZHgHNIsqYY), [2](https://www.youtube.com/watch?v=0PrV4iMnfVg), [3](https://www.youtube.com/watch?v=NRZCTtpmqcg) on the uses of music in the October 2019 "Estallido social," Media UC on YouTube, December 30, 2019.  
 
 TV interviews on Lucho Gatica's legacy on 24horas, TVN and CNN Chile, November 14, 2018.   
 
