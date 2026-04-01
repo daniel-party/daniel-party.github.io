@@ -307,7 +307,7 @@ Music Department, Cornell University, Feb 2017
 
 
 ## Conference Presentations
-"La construcción del sonido andino en la obra de Víctor Jara" (with Javiera Benavente), 49th ICTMD World Conference (Santiago, Chile), Jan 2027 
+"The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara" (with Javiera Benavente), 49th ICTMD World Conference (Santiago, Chile), Jan 2027 
 
 "Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)", LASA Congress (Paris, France), May 2026
 
