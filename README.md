@@ -23,7 +23,7 @@ Currently, I am engaged in the following research projects:
 - _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, principal researcher, 2025-2026) 
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
-Benavente, J. & Party, D. La construcción del sonido andino en la obra de Víctor Jara. Article in preparation.
+Benavente, J. & Party, D. The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara. Article in preparation
 
 Party, D. & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. Article in preparation.
 
