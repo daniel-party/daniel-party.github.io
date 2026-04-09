@@ -50,7 +50,7 @@ Daniel Party, Responsible Researcher
 Diego Olivares
 
 ## Thesis students
-
+Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
 
 ## Publications
 Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
