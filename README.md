@@ -25,6 +25,8 @@ Currently, I am engaged in the following research projects:
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Benavente, J. & Party, D. The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara. Article in preparation
 
+Party, D. “Protest Music in Chile.” In The Bloomsbury Encyclopedia of Popular Musics of the World. Vol. XIV (Genres: International, Part 2), edited by John Shepherd and David Horn. In preparation.
+
 Party, D. & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. Article in preparation.
 
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
