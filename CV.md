@@ -62,11 +62,13 @@ B.S. in Physics, awarded with maximum distinction, Catholic University of Chile,
 
 ### Articles & Book Chapters
 
-### Under review
+### In Preparation and Under review
 
-Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter.  
+Party, D. “Protest Music in Chile." In [_The Bloomsbury Encyclopedia of Popular Musics of the World_](https://www.bloomsburymusicandsound.com/encyclopedia-work?docid=BPM_reference_EPMOW). Vol. XIV (Genres: International, Part 2), edited by John Shepherd and David Horn. In preparation.
 
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
+
+Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review. 
 
 Party, D. , & [Díaz Pinto, A. M.](https://ucdavis.academia.edu/AnaMaríaDíazPinto) (In Press). [Twenty-first century Latin/o American Popular Music](https://musicsoflatinamerica.org/sections-chapters/twenty-first-century-latin-american-and-latino-popular-music/). In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_.
 
