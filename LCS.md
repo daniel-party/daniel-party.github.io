@@ -55,6 +55,8 @@ Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontifi
 ## Publications
 Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
 
+Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V1) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
+
 ## Invited Guest Lectures and Workshops
 “Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)”, Workshop Materialities, Practices and Industries in Popular Music, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
 
