@@ -39,7 +39,7 @@ Department of Music, Associate Professor with tenure (2011-2013),  Assistant Pro
 
 ### Visiting Positions
 
-Amherst College, Loewenstein Fellow in Political Science, 2027
+Amherst College, Loewenstein Fellow and Visiting Professor of Political Science, 2027
 
 University of Texas at Austin, LLILAS Tinker Visiting Professorship, 2023  
 
