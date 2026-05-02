@@ -516,7 +516,7 @@ Director de Docencia, College UC, Pontificia Universidad Católica de Chile, 202
 
 Subdirector Académico, Licenciatura en Artes y Humanidades, College UC, Pontificia Universidad Católica de Chile, 2022-2024  
 
-Member, Comisión Académica, Proyecto Innovación en Educación Superior para la Igualdad de Género en el ámbito de la I+D+i+e (InES Género), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2022-  
+Member, Comisión Académica, Proyecto Innovación en Educación Superior para la Igualdad de Género en el ámbito de la I+D+i+e (InES Género), Vicerrectoría de Investigación y Vicerrectoría Académica, Pontificia Universidad Católica de Chile, 2022-2025  
 
 Director interino, College UC, Pontificia Universidad Católica de Chile, 2022  
 
@@ -526,15 +526,9 @@ Secretario Académico ad-hoc, College UC, Pontificia Universidad Católica de Ch
 
 Director of Graduate Studies and Research, Facultad de Artes, Pontificia Universidad Católica de Chile, 2015-2019    
 
-Editorial Board Member, Contrapulso: Revista latinoamericana de estudios en música popular, Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado, Santiago de Chile, 2019-    
-
-Coordinator, Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2018, 2020   
-
-Editorial Board Member, Diagonal: An Ibero-American Music Review, Center for Iberian and Latin American Music at the University of California, Riverside, 2015-  
+Coordinator, Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2018, 2020     
 
 Member, College UC Advisory Board, Pontificia Universidad Católica de Chile, 2014-2021     
-
-Editorial Board Member, Revista Resonancias, Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
 
 Jury member, IX Premio Latinoamericano de Musicología "Samuel Claro Valdés," 2014  
 
@@ -552,6 +546,15 @@ Member, Women Studies’ Concentration’s steering committee, Saint Mary’s Co
 
 Co-organizer, Music Department Colloquia Series, University of Pennsylvania, 2001-02  
 
+### Editorial Board Membership
+
+[Resonancias: Revista de investigación musical](https://resonancias.uc.cl), Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
+
+[Diagonal: An Ibero-American Music Review](https://escholarship.org/uc/diagonal), Center for Iberian and Latin American Music at the University of California, Riverside, 2015-
+
+[Contrapulso: Revista latinoamericana de estudios en música popular](https://contrapulso.uahurtado.cl/index.php/cp/index), Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado, Santiago de Chile, 2019-    
+
+[Americas: A Hemispheric Music Journal](https://muse.jhu.edu/journal/792), American Music Research Center, the University of Colorado Boulder, 2020-
 
 ### Referee and Evaluation Services
 
