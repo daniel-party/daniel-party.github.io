@@ -510,6 +510,16 @@ TV Interview on Michael Jackson’s Thriller 25th Anniversary Edition. WSBT Even
 
 ## Academic and Evaluation Service
 
+### Editorial Board Membership
+
+[Resonancias: Revista de investigación musical](https://resonancias.uc.cl), Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
+
+[Diagonal: An Ibero-American Music Review](https://escholarship.org/uc/diagonal), Center for Iberian and Latin American Music at the University of California, Riverside, 2015-
+
+[Contrapulso: Revista latinoamericana de estudios en música popular](https://contrapulso.uahurtado.cl/index.php/cp/index), Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado, Santiago de Chile, 2019-    
+
+[Americas: A Hemispheric Music Journal](https://muse.jhu.edu/journal/792), American Music Research Center, the University of Colorado Boulder, 2020-
+
 ### Academic Service
 
 Director de Docencia, College UC, Pontificia Universidad Católica de Chile, 2024-  
@@ -545,16 +555,6 @@ Elected member, Ad Hoc Committee on General Education Curricular Reform, Saint M
 Member, Women Studies’ Concentration’s steering committee, Saint Mary’s College, 2005-13  
 
 Co-organizer, Music Department Colloquia Series, University of Pennsylvania, 2001-02  
-
-### Editorial Board Membership
-
-[Resonancias: Revista de investigación musical](https://resonancias.uc.cl), Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2013-  
-
-[Diagonal: An Ibero-American Music Review](https://escholarship.org/uc/diagonal), Center for Iberian and Latin American Music at the University of California, Riverside, 2015-
-
-[Contrapulso: Revista latinoamericana de estudios en música popular](https://contrapulso.uahurtado.cl/index.php/cp/index), Facultad de Filosofía y Humanidades, Universidad Alberto Hurtado, Santiago de Chile, 2019-    
-
-[Americas: A Hemispheric Music Journal](https://muse.jhu.edu/journal/792), American Music Research Center, the University of Colorado Boulder, 2020-
 
 ### Referee and Evaluation Services
 
