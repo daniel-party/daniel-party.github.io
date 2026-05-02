@@ -7,6 +7,8 @@ My academic path began with studies in physics and classical guitar before I pur
 
 I started my career at Saint Mary’s College in Indiana, and I have held visiting positions at the University of Texas at Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. 
 
+In 2027 I will spend a semester at [Amherst College](https://www.amherst.edu/) as Loewenstein Fellow and Visiting Professor in Political Science.
+
 ## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
 My research focuses on popular music in the Américas and Spain, with particular emphasis on gender, sexuality, and the cultural and political work performed by music within social movements. 
 
