@@ -19,11 +19,8 @@ A data-driven research project analyzing long-term gender representation in Lati
 ## Current Projects
 
 - [_Gender Gap and Gender Performance in Latin Collaborative Songs_](https://daniel-party.github.io/LCS.html) (FONDECYT Regular 1260561, 2026-2029) – Principal investigator
-
 - _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
-
 - [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, 2025-2028) – Principal investigator
-
 - _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, 2025-2026) – Principal investigator
 
 ## Recent Updates
