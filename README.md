@@ -7,7 +7,7 @@ I am Full Professor at the Pontificia Universidad Católica de Chile, with a joi
 
 ## Featured Project
 
-### Gender and Genre and the Billboard Hot Latin Songs Chart (1986–2024)
+#### Gender and Genre and the Billboard Hot Latin Songs Chart (1986–2024)
 
 A data-driven research project analyzing long-term gender representation in Latin popular music using Billboard chart data. It shows that long-run gender inequality in the Hot Latin Songs chart stems from structural genre shifts that privilege male-dominated styles over female-inclusive ones. It includes a [publicly available dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) and ongoing collaborative research outputs.
 
