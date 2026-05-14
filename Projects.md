@@ -4,6 +4,8 @@ layout: default
 
 # Research Projects
 
+## Current
+
 [Gender Gap and Gender Performance in Latin Collaborative Songs](https://daniel-party.github.io/LCS.html), FONDECYT Regular 1260561, principal researcher, 2026-2029
 
 Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970), FONDECYT Regular 1262333, co-researcher, 2026-2028
@@ -11,6 +13,8 @@ Redes, refugios y mentorías: el partido comunista chileno y las artes escénica
 [Millenium Nucleus in Musical and Sound Cultures](https://cmus.cl), Iniciativa Científica Milenio ANID NCS2025_65, principal researcher, 2025-2028  
 
 Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
+
+## Previous
 
 Millenium Nucleus in Musical and Sound Cultures, Iniciativa Científica Milenio ANID NCS2022_016, principal researcher, 2023-2025  
 
