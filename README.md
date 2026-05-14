@@ -26,6 +26,12 @@ A data-driven research project analyzing long-term gender representation in Lati
 
 - _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, 2025-2026) – Principal investigator
 
+## Recent Updates
+
+- Presentation at LASA Congress (Paris, 2026)
+- [Billboard Hot Latin Songs dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) released (Harvard Dataverse)
+- Visiting Professor at Amherst College (Spring 2027)
+
 ## Manuscripts and recent publications
 Benavente, J. & Party, D. The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara. Article in preparation
 
