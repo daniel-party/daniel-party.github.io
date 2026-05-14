@@ -12,11 +12,9 @@ My work focuses on popular music as a site where gender, sexuality, and politics
 
 ## Featured Project
 
-<b>Gender and the Billboard Hot Latin Songs Chart (1986–2024)</b>
+### Gender and the Billboard Hot Latin Songs Chart (1986–2024)
 
-A data-driven research project analyzing long-term gender representation in Latin popular music using Billboard chart data.
-
-<ul>Includes a publicly available dataset and ongoing collaborative research outputs.</ul>
+A data-driven research project analyzing long-term gender representation in Latin popular music using Billboard chart data. Includes a publicly available dataset and ongoing collaborative research outputs.
 
 ## Current Projects
 
