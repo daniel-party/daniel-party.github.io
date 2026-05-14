@@ -1,28 +1,31 @@
 ## <img src="assets/img/aboutme.png" width="24" height="24"> About me
-I am a musicologist and full professor at Pontificia Universidad Católica de Chile, where I hold a joint appointment in the College and the Instituto de Música.
+I am a musicologist specializing in popular music in the Américas and Spain, with a focus on gender, sexuality, and the cultural and political work of music. My research combines musicological analysis with data-driven approaches to examine how musical practices shape identities, industries, and social movements.
 
-I currently serve as [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC.
+Originally trained in physics and classical guitar, I bring an interdisciplinary perspective to the study of popular music.
 
-My academic path began with studies in physics and classical guitar before I pursued a Ph.D. in Music History at the University of Pennsylvania.
-
-I started my career at Saint Mary’s College in Indiana, and I have held visiting positions at the University of Texas at Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. 
-
-In 2027 I will spend a semester at [Amherst College](https://www.amherst.edu/) as Loewenstein Fellow and Visiting Professor in Political Science.
+I am Full Professor at the Pontificia Universidad Católica de Chile, with a joint appointment in College UC and the Instituto de Música, and I currently serve as [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC. I earned my Ph.D. in Music History at the University of Pennsylvania and have held visiting positions at UT Austin, Brown University, Tulane University, the University of Oregon, and the University of Georgia. In 2027, I will be Loewenstein Fellow and Visiting Professor in Political Science 
+at [Amherst College](https://www.amherst.edu/).
 
 ## <img src="assets/img/research.png" width="24" height="24"> Research Interests and Current Projects
-My research focuses on popular music in the Américas and Spain, with particular emphasis on gender, sexuality, and the cultural and political work performed by music within social movements. 
 
-My recent scholarship has examined the life and music of Víctor Jara, questions of gender performance in Latin American popular music, and broader intersections between sound, identity, and activism.
+My work focuses on popular music as a site where gender, sexuality, and politics are negotiated. I have published on Víctor Jara, gender performance in Latin American music, and the cultural role of music in social movements. My current research develops both qualitative and quantitative approaches to the study of musical cultures in the region.
 
-Currently, I am engaged in the following research projects: 
+### Featured Project
 
-- [_Gender Gap and Gender Performance in Latin Collaborative Songs_](https://daniel-party.github.io/LCS.html) (FONDECYT Regular 1260561, principal researcher, 2026-2029)
+<b>Gender and the Billboard Hot Latin Songs Chart (1986–2024)</b>
 
-- _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, co-researcher, 2026-2028)
+A data-driven research project analyzing long-term gender representation in Latin popular music using Billboard chart data.
 
-- [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, principal researcher, 2025-2028).
+<ul>Includes a publicly available dataset and ongoing collaborative research outputs.</ul>
 
-- _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, principal researcher, 2025-2026) 
+### Current Projects
+- [_Gender Gap and Gender Performance in Latin Collaborative Songs_](https://daniel-party.github.io/LCS.html) (FONDECYT Regular 1260561, 2026-2029) – Principal investigator
+
+- _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
+
+- [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, 2025-2028) – Principal investigator
+
+- _Gender and the Billboard Hot Latin Songs Chart_ (Fondo Puente UC, 2025-2026) – Principal investigator
 
 ## <img src="assets/img/publications.png" width="24" height="24"> Manuscripts and recent publications
 Benavente, J. & Party, D. The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara. Article in preparation
