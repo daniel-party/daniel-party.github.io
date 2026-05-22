@@ -11,8 +11,6 @@ My work focuses on popular music as a site where gender, sexuality, and politics
 
 ## Current Research Projects
 
-Current research projects extend this agenda through both large-scale data analysis and historically grounded cultural research.
-
 - [_Gender Gaps in Latin Music_](https://daniel-party.github.io/LCS.html)
 - [_Queering Víctor Jara_](https://daniel-party.github.io/VJ.html)
 - _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
