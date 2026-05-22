@@ -36,8 +36,6 @@ Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontifi
 ## Funding
 Gender Gap and Gender Performance in Latin Collaborative Songs, 4-year research project (2026-2029) funded by ANID Fondecyt Regular (1260561) 
 
-### Abstract
-
 <details>
   
 <summary>Click to display the abstract</summary>
@@ -58,6 +56,7 @@ Gender Gap and Gender Performance in Latin Collaborative Songs, 4-year research 
 
 <br>
 
+Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
 
 
 ## Publications
