@@ -5,8 +5,6 @@ layout: default
 # Queering Víctor Jara
 A queer biography of a martyr
 
-
-[Project Abstract](#project-abstract) /
 [Researchers](#researchers) /
 [Research Assistants](#research-assistants) /
 [Thesis Students](#Thesis-students) /
@@ -38,26 +36,6 @@ Carolina Valdivia Gallardo. Licenciatura en Música, mención Musicología at In
 
 Gender Performance in the Music of Víctor Jara, 3-year research project (2022-2025) funded by ANID Fondecyt Regular (1220146) 
 
-### Abstract
-
-<details>
-  
-<summary>Click to display the abstract</summary>
-<br>
-<p>This project is a musicological study of Víctor Jara's work both as songwriter and as performer of folklore. It seeks to counteract the tendency to interpret his life from the perspective of his death by focusing on the multi-dimensional nature of his artistic pursuits and achievements. It explores the gender performance in Jara's musical output, from the construction of his songs' characters to his vocal performance to his interest in humorous folk repertoires and in foreign styles like rock. The projects' general objective is to contribute to our understanding of the ways in which Jara's music both expressed and challenged the gender norms of his time. Research will be conducted through the following four distinct approaches:</p>
-
-<p>1. The Sexuality Problem: Rumors about Víctor Jara’s homosexuality circulated during his lifetime and periodically have resurfaced since. This approach seeks to demonstrate that Jara’s sexuality was a source of concern for his contemporaries, and that these apprehensions had a substantial impact on Jara's artistic and professional life. We hope to show that, as a coping mechanism, throughout his adult life Jara participated in queer-friendly networks that provided rich spaces for artistic, professional, and personal growth. This approach constitutes a revisionist take on the historiography of Nueva Canción Chilena, a body of work that has for the most part concealed the existence of sexual minorities.</p>
-   
-<p>2. Revolutionary masculinities and femininities: In most of Jara’s songs, the gender of a character is clearly delineated through his choice of articles, names, activities, and professions. For this approach we will analyze the gendered characters in his songs, their features and the roles they play within the performed narratives of each track. This approach will provide a diachronic interpretation of the ways in which Jara’s thinking about gender roles developed throughout his professional career. Such an approach will complement and expand our current thinking about Jara’s professional transformation from folklorist to singer-songwriter to militant singer. Second, this comprehensive analysis will contribute to a more thorough understanding of the gender politics at play in Chilean New Song and in Chilean society of the sixties and early seventies.</p>
-   
-<p>3. Rock music, gender and freedom: This approach will explore the profound impact that rock music and culture had on Jara's music beyond what has been acknowledged, such as his collaboration with rock group Los Blops. Close listening to his songs reveals Jara’s knowledge and appreciation of contemporary anglophone rock bands, such as The Rolling Stones and Led Zeppelin. These influences appear in subtle but significant ways, such as the use of particular melodic modes, chord constructions and progressions, guitar strumming patterns, rhythmic emphases, and an interest in improvisation. Beyond a purely aesthetic appreciation, we will study the ways in which Jara used rock culture to explore counter-cultural notions of gender and sexuality.</p>
-   
-<p>4. Humor, gender and sexuality in folklore performance: Attention to Jara's performances of folk songs reveals that he was keen on humorous repertoires, particularly of "picaresca chilena." In this approach, we rely on the work of folklorist Alan Dundes to analyze Jara’s recordings of humorous folk songs, with emphasis on the ones that express anxieties about gender and sexuality. We explore the ways in which the humor in these performances relates to contemporary debates about gender and sexuality during Allende’s Popular Unity government. We ask, how does the traditional knowledge (“saber popular”) expressed in these songs relate to attempts by Jara and others of establishing a new masculinity, expressed in the concept of the “hombre nuevo”?</p>
-
-</details>
-
-<br>
-
 
 ## Publications
 Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a cincuenta años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
@@ -70,6 +48,7 @@ Party, D. (2023). [Rethinking Post-Authoritarian Chile Through its Popular Music
 
 [Benavente, J.](https://uc-cl.academia.edu/JavieraBenavente), & Party, D. (2022). [Los Diablos Rojos de Víctor Jara: Un análisis coreográfico y musical](https://doi.org/10.7764/res.2022.51.5). Resonancias, 26(51), 97-117.    
 
+Party, D. (2019). [Homofobia y la Nueva Canción Chilena](http://revistascientificas2.filo.uba.ar/index.php/oidopensante/article/view/7560). _El Oído Pensante_, 7(2), 42-63.    
 
 
 ## Invited Guest Lectures and Workshops
