@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Queering Víctor Jara
-A queer biography of a martyr
+> A queer biography of a martyr
 
 [Researchers](#researchers) /
 [Research Assistants](#research-assistants) /
