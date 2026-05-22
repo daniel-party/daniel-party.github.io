@@ -52,6 +52,8 @@ Party, D. (2019). [Homofobia y la Nueva Canción Chilena](http://revistascientif
 
 
 ## Invited Guest Lectures and Workshops
+"Víctor Jara y su legado", Modern Languages and Literatures Department, Claremont McKenna College, Apr 2026
+
 "Siempre será canción nueva. Encuentros con Victor Jara a 33 años del nacimiento de la Fundación", Conversatorio, Fundación Víctor Jara, Enero 2026
 
 "'Algunos nos inclinamos por el lila': Fragmentos cuir en la vida de Víctor Jara", Instituto de Música, Pontificia Universidad Católica de Valparaíso, Oct 2025
