@@ -62,6 +62,8 @@ Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectorí
 ## Publications
 Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
 
+Olivares, D., & Party, D. Billboard's Hot Latin Songs Chart Dataset 1987-2024 (Data Paper). In preparation.
+
 Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V1) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
 
 ## Invited Guest Lectures and Workshops
