@@ -56,6 +56,8 @@ Daniel Party, Responsible Researcher
 
 <p>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</p>
 
+[Linkedin](https://cl.linkedin.com/in/ana-maría-díaz-pinto-91702a163)
+
 </details>
 
 <br>
