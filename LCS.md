@@ -38,8 +38,16 @@ Daniel Party, Responsible Researcher
 ## Research assistants
 Diego Olivares
 
-Ana María Díaz Pinto
-<ul>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</ul>
+<details>
+  
+<summary>Ana María Díaz Pinto</summary>
+<br>
+
+<p>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</p>
+
+</details>
+
+<br>
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
