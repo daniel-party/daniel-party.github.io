@@ -5,8 +5,6 @@ layout: default
 # Queering Víctor Jara
 A queer biography of a martyr
 
-# Gender Performance in the Music of Víctor Jara
-### 3-year research project (2022-2025) funded by ANID Fondecyt Regular (1220146) 
 
 [Project Abstract](#project-abstract) /
 [Researchers](#researchers) /
@@ -54,6 +52,12 @@ Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontif
 Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile.
 
 Carolina Valdivia Gallardo. Licenciatura en Música, mención Musicología at Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile.
+
+## Funding
+
+Gender Performance in the Music of Víctor Jara, 3-year research project (2022-2025) funded by ANID Fondecyt Regular (1220146) 
+
+
 
 ## Publications
 Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a cincuenta años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
