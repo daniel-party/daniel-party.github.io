@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# Queering Víctor Jara
+A queer biography of a martyr
+
 # Gender Performance in the Music of Víctor Jara
 ### 3-year research project (2022-2025) funded by ANID Fondecyt Regular (1220146) 
 
@@ -9,12 +12,13 @@ layout: default
 [Researchers](#researchers) /
 [Research Assistants](#research-assistants) /
 [Thesis Students](#Thesis-students) /
+[Funding](#Funding) /
 [Publications](#publications) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
 [Conferences](#conference-presentations) /
 [Media](#in-the-media) /
 
-## Project abstract
+## Fondecyt abstract
 
 <details>
   
