@@ -11,10 +11,10 @@ My work focuses on popular music as a site where gender, sexuality, and politics
 
 ## Current Research Projects
 
-- [_Gender Gaps in Latin Music_](https://daniel-party.github.io/LCS.html)
-- [_Queering Víctor Jara_](https://daniel-party.github.io/VJ.html)
-- _Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970)_ (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
-- [_Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, 2025-2028) – Principal investigator
+- [Gender Gaps in Latin Music](https://daniel-party.github.io/LCS.html)
+- [Queering Víctor Jara](https://daniel-party.github.io/VJ.html)
+- [Millennium Nucleus in Musical and Sound Cultures_](https://cmus.cl) (Núcleo Milenio en Ciencias Sociales NCS2025_65, 2025-2028) – Principal investigator
+- Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970) (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
 
 ## Recent Updates
 
