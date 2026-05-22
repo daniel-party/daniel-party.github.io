@@ -4,7 +4,7 @@ layout: default
 
 # Gender Gaps in Latin Music
 
-Examining how the rise of collaborative song formats and long-term genre shifts jointly shape gender inequality in Latin popular music.
+> Examining how the rise of collaborative song formats and long-term genre shifts jointly shape gender inequality in Latin popular music.
 
 [Researchers](#researchers) /
 [Research Assistants](#research-assistants) /
