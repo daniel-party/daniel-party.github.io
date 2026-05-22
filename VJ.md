@@ -22,6 +22,8 @@ Gender Performance in the Music of Víctor Jara, ANID Fondecyt Regular (1220146)
 
 
 ## Publications
+Party, D. (2025). Queering Víctor Jara. (Book manuscript in progress)
+
 Party, D. (2025). [Nuevas aproximaciones a Víctor Jara a cincuenta años de su muerte](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/77054). _Revista Musical Chilena_, 79(244), 167-175.
 
 Party, D., & [Wolf, J. E.](https://musicanddance.uoregon.edu/directory/faculty/all/ewolf2) (2023). [Canto por travesura: folklore y picaresca en un disco de Víctor Jara](https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/67922). _Revista Musical Chilena_, 77(240), 62-79.   
