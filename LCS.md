@@ -37,11 +37,19 @@ Daniel Party, Responsible Researcher
 <br>
 
 ## Research assistants
-Diego Olivares
 
 <details>
   
-<summary>Ana María Díaz Pinto</summary>
+<summary>Diego Olivares (Ph.D. student, Oxford University)</summary>
+<br>
+
+<p>Sociólogo y Magíster en Sociología de la Pontificia Universidad Católica de Chile. Trabajando en investigación sobre nuevas tecnologías y su impacto en el mercado laboral. Investigo también temáticas sobre música popular, desde un enfoque cuantitativo, observando los cambios a través del tiempo y en particular el impacto de la plataformización en la industria musical. Experiencia en Análisis Cuantitativo usando Rstudio, Stata y Excel. Manejo y Gestión de Bases de Datos internas y de Políticas Públicas. Experiencia en Consultoría, Investigaciones Académicas, Organizaciones Internacionales y Organizaciones de la Sociedad Civil.</p>
+
+</details>
+
+<details>
+  
+<summary>Ana María Díaz Pinto (Ph.D. candidate, UC Davis)</summary>
 <br>
 
 <p>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</p>
