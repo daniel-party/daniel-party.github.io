@@ -6,8 +6,6 @@ layout: default
 > A queer biography of a martyr
 
 [Researchers](#researchers) /
-[Research Assistants](#research-assistants) /
-[Thesis Students](#Thesis-students) /
 [Funding](#Funding) /
 [Publications](#publications) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
@@ -18,23 +16,9 @@ layout: default
 ## Researchers
 Daniel Party, Responsible Researcher  
 
-## Research assistants
-Gabriel Rammsy
-
-Montserrat Venegas
-
-Ana María Díaz
-
-## Thesis students
-Felipe González. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile.  
-
-Esteban González. Música y diplomacia cultural durante la Unidad Popular: Víctor Jara en gira por Costa Rica en 1971. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile.
-
-Carolina Valdivia Gallardo. Licenciatura en Música, mención Musicología at Instituto de Música, Facultad de Artes, Pontificia Universidad Católica de Chile.
-
 ## Funding
 
-Gender Performance in the Music of Víctor Jara, 3-year research project (2022-2025) funded by ANID Fondecyt Regular (1220146) 
+Gender Performance in the Music of Víctor Jara, ANID Fondecyt Regular (1220146), (2022-2025). 
 
 
 ## Publications
