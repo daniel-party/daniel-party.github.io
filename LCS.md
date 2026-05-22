@@ -61,7 +61,7 @@ Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectorí
 
 ## Publications
 Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
-<ul>Data-driven article analyzing long-term gender representation in Latin popular music using Billboard chart data. It shows that long-run gender inequality in the Hot Latin Songs chart stems from structural genre shifts that privilege male-dominated styles over female-inclusive ones. It includes a [publicly available dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) and ongoing collaborative research outputs.</ul>
+<ul>Data-driven article analyzing long-term gender representation in Latin popular music using Billboard chart data. It shows that long-run gender inequality in the Hot Latin Songs chart stems from structural genre shifts that privilege male-dominated styles over female-inclusive ones.</ul>
 
 Olivares, D., & Party, D. Billboard's Hot Latin Songs Chart Dataset 1987-2024 (Data Paper). In preparation.
 
