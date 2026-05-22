@@ -57,7 +57,7 @@ Gender Gap and Gender Performance in Latin Collaborative Songs, 4-year research 
 
 <details>
   
-<summary>Click to display the abstract</summary>
+<summary>Grant Abstract</summary>
 <br>
 <p>One of the most notable developments in recorded popular music in the twenty-first century has been the exponential increase in the popularity of collaborative songs. Following Duguay, this study defines collaborative song as one that is recorded by and credited to two or more independent acts. While credited collaborations are not a novel phenomenon in popular music–duets and other forms of joint performance have been present since the early days of commercially available recorded music in the early twentieth century–the prevalence of such collaborations has grown markedly since the late 1990s. This trend is particularly evident in the increasing proportion of collaborative tracks appearing at the top of popularity charts.</p>
 
