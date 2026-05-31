@@ -30,11 +30,11 @@ Daniel Party, Responsible Researcher
 
 <p>I was a founder of Educación 2020, a Chilean educational advocacy NGO. I worked at the Ministry of Education in 2012, and then transferred to work in public policy analysis and fundraising for Educación 2020. In 2014 I  worked at America Solidaria Haiti as its Executive Director, based in Port au Prince, and then studied an MPP at the Harvard Kennedy School.</p>
 
-[Web](https://sites.google.com/site/ramirezespinozafernanda/sobre-mi)
-
-</details>
+<a href="https://sites.google.com/site/ramirezespinozafernanda/sobre-mi">Web</a>
 
 <br>
+
+</details>
 
 ## Research assistants
 
@@ -47,7 +47,7 @@ Daniel Party, Responsible Researcher
 
 <a href="https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image">Linkedin</a>
 
-[Linkedin](https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image)
+<br>
 
 </details>
 
@@ -59,11 +59,11 @@ Daniel Party, Responsible Researcher
 
 <p>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</p>
 
-[Linkedin](https://cl.linkedin.com/in/ana-maría-díaz-pinto-91702a163)
-
-</details>
+<a href="https://cl.linkedin.com/in/ana-maría-díaz-pinto-91702a163">Linkedin</a>
 
 <br>
+
+</details>
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
