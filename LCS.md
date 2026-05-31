@@ -38,13 +38,14 @@ Daniel Party, Responsible Researcher
 
 ## Research assistants
 
-<details>
-  
-<summary>Diego Olivares (Ph.D. student, Oxford University)</summary>
+<details>  
+  <summary>Diego Olivares (Ph.D. student, Oxford University)</summary>
 
 <br>
 
 <p>Sociólogo y Magíster en Sociología de la Pontificia Universidad Católica de Chile. Trabajando en investigación sobre nuevas tecnologías y su impacto en el mercado laboral. Investigo también temáticas sobre música popular, desde un enfoque cuantitativo, observando los cambios a través del tiempo y en particular el impacto de la plataformización en la industria musical. Experiencia en Análisis Cuantitativo usando Rstudio, Stata y Excel. Manejo y Gestión de Bases de Datos internas y de Políticas Públicas. Experiencia en Consultoría, Investigaciones Académicas, Organizaciones Internacionales y Organizaciones de la Sociedad Civil.</p>
+
+<a href="https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image">Linkedin</a>
 
 [Linkedin](https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image)
 
