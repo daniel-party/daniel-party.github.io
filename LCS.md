@@ -32,9 +32,9 @@ Daniel Party, Responsible Researcher
 
 <a href="https://sites.google.com/site/ramirezespinozafernanda/sobre-mi">Web</a>
 
-<br>
-
 </details>
+
+<br>
 
 ## Research assistants
 
@@ -47,9 +47,9 @@ Daniel Party, Responsible Researcher
 
 <a href="https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image">Linkedin</a>
 
-<br>
-
 </details>
+
+<br>
 
 <details>
   
@@ -61,9 +61,9 @@ Daniel Party, Responsible Researcher
 
 <a href="https://cl.linkedin.com/in/ana-maría-díaz-pinto-91702a163">Linkedin</a>
 
-<br>
-
 </details>
+
+<br>
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
