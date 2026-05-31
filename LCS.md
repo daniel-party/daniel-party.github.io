@@ -20,8 +20,7 @@ layout: default
 Daniel Party, Responsible Researcher  
 
 <details>
-  
-<summary>María Fernanda Ramírez, Co-Researcher</summary>
+  <summary>María Fernanda Ramírez, Co-Researcher</summary>
 <br>
 
 <p>I am an Assistant Professor at College UC and the Department of Industrial Engineering at Pontificia Universidad Católica de Chile and an invited researcher at J-PAL LAC. My research is focused on Latin-American educational policies and interventions, studying gender bias and its effects on educational outcomes. In particular, I am interested in understanding why women are underrepresented in STEM areas, how peers' gender affects women and men differently, and what interventions can be implemented to close the gender gap at all levels of education.</p>
@@ -49,11 +48,8 @@ Daniel Party, Responsible Researcher
 
 </details>
 
-<br>
-
 <details>
-  
-<summary>Ana María Díaz Pinto (Ph.D. candidate, UC Davis)</summary>
+  <summary>Ana María Díaz Pinto (Ph.D. candidate, UC Davis)</summary>
 
 <br>
 
