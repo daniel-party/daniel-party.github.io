@@ -1,4 +1,4 @@
-## Research Statement
+## About
 I study popular music as a cultural and industrial system where gender, sexuality, and politics are produced and negotiated. Originally trained in physics and classical guitar, I bring a uniquely interdisciplinary perspective to this work, combining musicological interpretation with data-driven analysis to trace how patterns of collaboration, circulation, and visibility shape inequality. My research develops both qualitative and quantitative approaches to the study of musical cultures across the Américas and Spain, with a focus on gender performance, social movements, and the legacy of Víctor Jara.
 
 ## Current Positions
