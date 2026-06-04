@@ -2,7 +2,7 @@
 I study popular music as a cultural and industrial system where gender, sexuality, and politics are produced and negotiated. Originally trained in physics and classical guitar, I bring a uniquely interdisciplinary perspective to this work, combining musicological interpretation with data-driven analysis to trace how patterns of collaboration, circulation, and visibility shape inequality. My research develops both qualitative and quantitative approaches to the study of musical cultures across the Américas and Spain, with a focus on gender performance, social movements, and the legacy of Víctor Jara.
 
 ## Current Role
-- [Director de Docencia at College UC](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/)  
+- [Director de Docencia](https://college.uc.cl/autoridades-y-equipos/direccion-de-docencia/) at College UC  
 Teaching and working in College UC, a distinctive liberal arts-inspired undergraduate program that combines interdisciplinary breadth with flexible, student-designed trajectories, has deepened my commitment to integrative teaching, critical inquiry, and undergraduate research. Its emphasis on helping students navigate across the arts and humanities, and the social and natural sciences while building their own academic paths closely informs both my pedagogy and institutional work.
 - Full Professor at the Pontificia Universidad Católica de Chile, with a joint appointment in College UC and the Instituto de Música
   
