@@ -11,9 +11,9 @@ I earned my Ph.D. in Music History at the University of Pennsylvania and have he
 
 ## Current Research Projects
 
-- [Gender Gaps in Latin Music](https://daniel-party.github.io/LCS.html)
+- [Gender Gaps in Latin Music](https://daniel-party.github.io/LCS.html) (FONDECYT Regular 1260561, 2026-2029, Principal Investigator)
 - [Queering Víctor Jara](https://daniel-party.github.io/VJ.html)
-- Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970) (FONDECYT Regular 1262333, 2026-2028) – Co-investigator
+- Redes, refugios y mentorías: el partido comunista chileno y las artes escénicas (1958-1970) (FONDECYT Regular 1262333, 2026-2028, Co-Investigator)
 
 ## Recent Updates
 
