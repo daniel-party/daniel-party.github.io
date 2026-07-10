@@ -68,11 +68,11 @@ B.S. in Physics, awarded with maximum distinction, Catholic University of Chile,
 
 Party, D. “Protest Music in Chile." In [_The Bloomsbury Encyclopedia of Popular Musics of the World_](https://www.bloomsburymusicandsound.com/encyclopedia-work?docid=BPM_reference_EPMOW). Vol. XIV (Genres: International, Part 2), edited by John Shepherd and David Horn. In preparation.
 
-Party, D. & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. Article in preparation.
-
 Benavente, J. & Party, D. The Construction of an Altiplanic Sound in Chilean New Song: The Case of Víctor Jara. Article in preparation
 
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
+
+Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and the Billboard Hot Latin Songs Chart (1987–2024). Under review.
 
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review. 
 
