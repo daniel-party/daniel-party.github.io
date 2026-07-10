@@ -91,12 +91,12 @@ Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectorí
 
 
 ## Publications
-Party, D., & Olivares, D. Gender on the Billboard Hot Latin Songs Chart, 1987-2024. In preparation.
-<ul>Data-driven article analyzing long-term gender representation in Latin popular music using Billboard chart data. It shows that long-run gender inequality in the Hot Latin Songs chart stems from structural genre shifts that privilege male-dominated styles over female-inclusive ones.</ul>
+Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and the Billboard Hot Latin Songs Chart (1987–2024). Under review.
+<ul>This study examines long-term gender inequality on the Billboard Hot Latin Songs chart using a comprehensive 38-year dataset (1987–2024). Moving beyond short-term media narratives, we demonstrate that female underrepresentation is a macro-structural issue driven by genre composition rather than individual performance. Chart entry serves as the primary bottleneck for women; yet, once achieved, select artists experience a concentrated "superstar effect." Crucially, this exclusion is highly genre-dependent. Consecutive historical rises of male-skewed genres—initially Música mexicana and later Urbano latino—systematically crowded out female-inclusive formats. Ultimately, achieving industry-wide parity requires transforming these core structures of chart dominance.</ul>
 
 Olivares, D., & Party, D. Billboard's Hot Latin Songs Chart Dataset 1987-2024 (Data Paper). In preparation.
 
-Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V1) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
+Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V2) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
 
 ## Invited Guest Lectures and Workshops
 “Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)”, Workshop Materialities, Practices and Industries in Popular Music, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
