@@ -61,8 +61,6 @@ Daniel Party, Responsible Researcher
 
 </details>
 
-<br>
-
 ### Undergraduate
 
 Matilde Hirth Echeverría
