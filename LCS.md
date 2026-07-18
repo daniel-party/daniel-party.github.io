@@ -37,6 +37,8 @@ Daniel Party, Responsible Researcher
 
 ## Research assistants
 
+### Graduate
+
 <details>  
   <summary>Diego Olivares (Ph.D. student, Oxford University)</summary>
 
@@ -60,6 +62,11 @@ Daniel Party, Responsible Researcher
 </details>
 
 <br>
+
+### Undergraduate
+
+Matilde Hirth Echeverría
+Catalina Arriaza Basualdo
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
