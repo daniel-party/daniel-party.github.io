@@ -63,8 +63,9 @@ Daniel Party, Responsible Researcher
 
 ### Undergraduate
 
-Matilde Hirth Echeverría
-Catalina Arriaza Basualdo
+Matilde Hirth Echeverría  
+
+Catalina Arriaza Basualdo  
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
