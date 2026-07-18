@@ -61,11 +61,12 @@ Daniel Party, Responsible Researcher
 
 </details>
 
+<br>
+
 ### Undergraduate
 
-Matilde Hirth Echeverría  
-
-Catalina Arriaza Basualdo  
+Matilde Hirth Echeverría (Licenciada en Ciencias Sociales, College UC)   
+Catalina Arriaza Basualdo (Licenciatura en Ciencias Sociales, College UC)  
 
 ## Thesis students
 Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontificia Universidad Católica de Chile
