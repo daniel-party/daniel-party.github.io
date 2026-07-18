@@ -91,10 +91,11 @@ Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectorí
 
 
 ## Publications
+Olivares, D., & Party, D. The Billboard Hot Latin Songs Chart Dataset (1987–2024): Tracking Gender and Artist Collaborations. In preparation.
+<ul>This data paper introduces the “Billboard Hot Latin Songs Chart Data,” a longitudinal repository containing 38 years of continuous weekly logs. Addressing the overwhelming Anglo-centric bias in data-driven popular music research, this dataset combines original chart metadata with researcher-constructed variables tracking artist gender demographics, ensembles, and multi-artist collaboration dynamics. Baseline descriptive statistics reveal a persistent industry gender gap alongside an exponential rise in collaborative tracks since the mid-2000s. Contrasting these findings with mainstream pop benchmarks highlights a distinct temporal lag and heightened magnitude in Latin music collaboration trends, offering a robust empirical foundation for intersecting demographic and market analyses.</ul>
+
 Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and the Billboard Hot Latin Songs Chart (1987–2024). Under review.
 <ul>This study examines long-term gender inequality on the Billboard Hot Latin Songs chart using a comprehensive 38-year dataset (1987–2024). Moving beyond short-term media narratives, we demonstrate that female underrepresentation is a macro-structural issue driven by genre composition rather than individual performance. Chart entry serves as the primary bottleneck for women; yet, once achieved, select artists experience a concentrated "superstar effect." Crucially, this exclusion is highly genre-dependent. Consecutive historical rises of male-skewed genres—initially Música mexicana and later Urbano latino—systematically crowded out female-inclusive formats. Ultimately, achieving industry-wide parity requires transforming these core structures of chart dominance.</ul>
-
-Olivares, D., & Party, D. Billboard's Hot Latin Songs Chart Dataset 1987-2024 (Data Paper). In preparation.
 
 Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V2) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
 
