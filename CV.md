@@ -72,6 +72,8 @@ Benavente, J. & Party, D. The Construction of an Altiplanic Sound in Chilean New
 
 Santhiago, R., Lemos, I., Party. D., eds. (2027). Dossier Cultura Pop, Memória e História do Tempo Presente. _Revista Tempo e Argumento_ (in preparation).
 
+Olivares, D., & Party, D. The Billboard Hot Latin Songs Chart Dataset (1987–2024): Tracking Gender and Artist Collaborations. In preparation.
+
 Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and the Billboard Hot Latin Songs Chart (1987–2024). Under review.
 
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review. 
