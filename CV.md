@@ -414,21 +414,21 @@ Music Department, Cornell University, Feb 2017
 
 ### Postdoctoral Advisees
 
-[Luis Achondo](https://www.mun.ca/music/people/faculty/luis-achondo/). Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología, Fondecyt Postdoctorado 2022-2025.
+[Luis Achondo](https://www.mun.ca/music/people/faculty/luis-achondo/) (Assistant Professor, School of Music, Memorial University, Canada). _Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología_, Fondecyt Postdoctorado 2022-2025.
 
 ### Ph.D. students
 
-Lydia Wagenknecht. Sounds of Climate Change in Punta Arenas, Ph.D. in Ethnomusicology, Department of Music, University of  Colorado Boulder (Fulbright Host, and Dissertation Committee Member), 2023-2025  
+Lydia Wagenknecht. _Sounds of Climate Change in Punta Arenas_, Ph.D. in Ethnomusicology, Department of Music, University of  Colorado Boulder (Fulbright Host, and Dissertation Committee Member), 2023-2025  
 
-Rosario Bravo. Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
+Rosario Bravo. _Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
 
-[Nelson Rodríguez](https://udec-cl.academia.edu/NelsonRodriguezVega). Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
+[Nelson Rodríguez](https://udec-cl.academia.edu/NelsonRodriguezVega). _Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
 
-[Javiera Benavente](https://uc-cl.academia.edu/JavieraBenavente). Identidades en disputa: la danza - música de caporales y espacio transnacional andino, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
+[Javiera Benavente](https://uc-cl.academia.edu/JavieraBenavente) (Profesora asistente, Departamento de Estudio Pedagógicos, Facultad de Filosofía y Humanidades, Universidad de Chile). _Identidades en disputa: la danza - música de caporales y espacio transnacional andino_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
 
-[Federico Eisner](https://independent.academia.edu/FedericoEisnerSagüés). Puesta en música de poesía sonora: relaciones entre poesía sonora y música a través de las prácticas vocales experimentales, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019-2022.  
+[Federico Eisner](https://independent.academia.edu/FedericoEisnerSagüés) (Postdoctoral Researcher, Núcleo Milenio ANIMUPA). _Puesta en música de poesía sonora: relaciones entre poesía sonora y música a través de las prácticas vocales experimentales_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2019-2022.  
 
-[José Miguel Candela](https://portafolio-academico.uchile.cl/perfil/26514-Jose-Miguel-Candela-Pavez). Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
+[José Miguel Candela](https://portafolio-academico.uchile.cl/perfil/26514-Jose-Miguel-Candela-Pavez) (Profesor asociado, Departamento de Danza, Facultad de Artes, Universidad de Chile). _Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
 
 Christina Azahar. Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in Chile's Popular Music Scenes, Ph.D. in Ethnomusicology, Department of Music, University of California, Berkeley (committee member, and Fulbright Host), 2017-2021  
 
