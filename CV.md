@@ -430,9 +430,9 @@ Rosario Bravo. _Canto ciudadano, canto comunitario: En búsqueda de la democraci
 
 [José Miguel Candela](https://portafolio-academico.uchile.cl/perfil/26514-Jose-Miguel-Candela-Pavez) (Profesor asociado, Departamento de Danza, Facultad de Artes, Universidad de Chile). _Tácito. Una investigación práctica sobre las redes coreomusicales en los umbrales de silencio e inmovilidad_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2017-2021.  
 
-Christina Azahar. Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in Chile's Popular Music Scenes, Ph.D. in Ethnomusicology, Department of Music, University of California, Berkeley (committee member, and Fulbright Host), 2017-2021  
+Christina Azahar. _Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in Chile's Popular Music Scenes_, Ph.D. in Ethnomusicology, Department of Music, University of California, Berkeley (committee member, and Fulbright Host), 2017-2021  
 
-[Zamara Cuadros](https://scholar.google.com/citations?user=WNCh5-wAAAAJ&hl=es). El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
+[Zamara Cuadros](https://scholar.google.com/citations?user=WNCh5-wAAAAJ&hl=es). _El rol de la sincronía interpersonal espontánea en el comportamiento prosocial de bebés de 14 y 15 meses de edad_, Doctorado en Psicología, Escuela de Psicología, Pontificia Universidad Católica de Chile (committee member), 2017-2019.  
 
 
 ### M.A. students
