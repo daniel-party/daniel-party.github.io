@@ -322,6 +322,8 @@ Music Department, Cornell University, Feb 2017
 
 "The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara" (with Javiera Benavente), 49th ICTMD World Conference (Santiago, Chile), Jan 2027 
 
+"La brecha inaudible: Desigualdad de género en el consumo de música vía streaming en Chile (2017-2025)", XIII Congreso Chileno de Musicología, Oct 2026
+
 "Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)", LASA Congress (Paris, France), May 2026
 
 "Latinidad and the _Billboard_ Hot Latin Songs Chart (1986-2024)", 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
