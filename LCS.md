@@ -114,6 +114,8 @@ Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https:/
 ## Conference presentations
 "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), March 2027
 
+"La brecha inaudible: Desigualdad de género en el consumo de música vía streaming en Chile (2017-2025)", XIII Congreso Chileno de Musicología, Oct 2026
+
 “Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)”, LASA Congress (Paris, France), May 2026
 
 “Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
