@@ -18,5 +18,5 @@ I earned my Ph.D. in Music History at the University of Pennsylvania and have he
 ## Recent Updates
 
 - 📊 Dataset: [Billboard Hot Latin Songs](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Harvard Dataverse)
-- 🎤 Presentation: LASA Congress (Paris, 2026)
+- 🎤 Presentations: Congreso Chileno de Musicología (Viña del Mar, 2026); LASA Congress (Paris, 2026)
 - 🎓 Visiting Professor: Amherst College (Spring 2027)
