@@ -423,7 +423,7 @@ Lydia Wagenknecht. _Sounds of Climate Change in Punta Arenas_, Ph.D. in Ethnomus
 
 Rosario Bravo. _Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
 
-[Nelson Rodríguez](https://udec-cl.academia.edu/NelsonRodriguezVega). _Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
+[Nelson Rodríguez](https://udec-cl.academia.edu/NelsonRodriguezVega) (Profesor asistente, Departamento de Música, Facultad de Humanidades y Arte, Universidad de Concepción). _Improvisando a orillas del Biobío: Escena, busking y género como nodos de la cultura musical del freestyle en Concepción, Chile_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2021-2025  
 
 [Javiera Benavente](https://uc-cl.academia.edu/JavieraBenavente) (Profesora asistente, Departamento de Estudio Pedagógicos, Facultad de Filosofía y Humanidades, Universidad de Chile). _Identidades en disputa: la danza - música de caporales y espacio transnacional andino_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2020-2023  
 
