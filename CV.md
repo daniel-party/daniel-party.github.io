@@ -418,7 +418,7 @@ Music Department, Cornell University, Feb 2017
 [Luis Achondo](https://www.mun.ca/music/people/faculty/luis-achondo/) (Assistant Professor, School of Music, Memorial University, Canada). _Cambio Climático y Deforestación Neoliberal en la Ecología Sonora Mapuche: Una Aproximación desde la Eco-etnomusicología_, Fondecyt Postdoctorado 2022-2025.
 
 ### Ph.D. students
-Emanuel Ramírez. Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2027-  
+[Emanuel Ramírez](https://uc-cl.academia.edu/EmanuelRamírezJaramillo). Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2027-  
 
 Rosario Bravo. _Canto ciudadano, canto comunitario: En búsqueda de la democracia cultural a través de la práctica coral participativa_, Doctorado en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2022-  
 
