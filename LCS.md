@@ -121,3 +121,4 @@ Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https:/
 “Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
 ## In the Media
+[Interview about the project](https://schm.cl/entrevista-a-daniel-party/), Sociedad Chilena de Musicología, Aug 2026
