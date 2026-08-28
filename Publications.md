@@ -19,7 +19,7 @@ Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and th
 Party, D. & Benavente, J. Renovación de la conmemoración del golpe de estado chileno: Los Diablos Rojos de Víctor Jara en la marcha por los derechos humanos. Book chapter under review.  
 
 ## Published
-Party, D. , & Díaz Pinto, A. M. (In press). [Twenty-first Century Latin/o American Popular Music](https://musicsoflatinamerica.org/sections-chapters/twenty-first-century-latin-american-and-latino-popular-music/). In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_.  
+Party, D. , & Díaz Pinto, A. M. (2026). [Twenty-first Century Latin/o American Popular Music](https://musicsoflatinamerica.org/sections-chapters/twenty-first-century-latin-american-and-latino-popular-music/). In R. Moore & W. A. Clark (Eds.), _Musics of Latin America_.  
 
 Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V1) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
 
