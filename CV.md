@@ -438,6 +438,7 @@ Christina Azahar. _Noisy Women, Imagined Spaces: Gender, Mobility, and Sound in 
 
 
 ### M.A. students
+Emilia Musalem. Magíster en Musicología Latinoamericana, Universidad Alberto Hurtado (co-advised with Lorena Valdebenito), 2026-
 
 Carlos Soto Martínez. Magíster en Artes mención música, Facultad de Artes, Pontificia Universidad Católica de Chile, 2025.  
 
