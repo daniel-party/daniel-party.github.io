@@ -10,7 +10,7 @@ layout: default
 [Grants](#teaching-awards) /
 [Guest Lectures](#invited-guest-lectures-and-workshops) /
 [Conferences](#conference-presentations) /
-[Grad Students](#students-and-postdoctoral-advisees) /
+[Grad Students](#graduate-students-and-postdoctoral-advisees) /
 [Courses](#courses-taught) /
 [Media](#in-the-media) /
 [Service](#academic-and-evaluation-service)
@@ -411,7 +411,7 @@ Music Department, Cornell University, Feb 2017
 “A feminist reading of Bartók’s Duke Bluebeard’s Castle,” Penn-Columbia-Princeton-Cornell graduate student conference (Philadelphia, PA), Feb 2002  
 
 
-## Students and Postdoctoral Advisees
+## Graduate Students and Postdoctoral Advisees
 
 ### Postdoctoral Advisees
 
