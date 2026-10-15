@@ -231,6 +231,15 @@ Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1
 
 
 ## Invited Guest Lectures and Workshops
+
+Music Department, Harvard University, Apr 2027
+
+Music Department, Wellesley College, Apr 2027
+
+Latina/o Studies, Williams College, Apr 2027
+
+Thornton School of Music, University of Southern California, Mar 2027
+
 Víctor Jara y su legado, Modern Languages and Literatures Department, Claremont McKenna College, Apr 2026
 
 "Siempre será canción nueva. Encuentros con Victor Jara a 33 años del nacimiento de la Fundación", Conversatorio, Fundación Víctor Jara, Jan 2026
@@ -318,6 +327,7 @@ Music Department, Cornell University, Feb 2017
 
 
 ## Conference Presentations
+
 "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), Mar 2027
 
 "The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara" (with Javiera Benavente), 49th ICTMD World Conference (Santiago, Chile), Jan 2027 
