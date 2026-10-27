@@ -92,6 +92,8 @@ Nicolás Rojas Zambrano, Licenciatura en Música, mención Musicología, Pontifi
 
 </details>
 
+<br>
+
 Desigualdad de género en el consumo musical vía streaming en Chile, Núcleo Milenio en Culturas Musicales y Sonoras, 2026.
 
 Gender and the Billboard Hot Latin Songs Chart, Fondo Puente 2025, Vicerrectoría de Investigación, Pontificia Universidad Católica de Chile, 2025-2026  
