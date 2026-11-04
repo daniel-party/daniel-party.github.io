@@ -114,13 +114,15 @@ Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https:/
 “Brechas de género en el ránking latino de Billboard (1987-2024)”, Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025
 
 ## Conference presentations
-"Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), March 2027
+Party, D. "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), March 2027
 
-"La brecha inaudible: Desigualdad de género en el consumo de música vía streaming en Chile (2017-2025)", XIII Congreso Chileno de Musicología, Oct 2026
+Rojas, N. "Expresiones y representaciones de género en canciones colaborativas de la escena urbana chilena", Jornada de Musicología UC (Santiago de Chile), Nov 2026
 
-“Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)”, LASA Congress (Paris, France), May 2026
+Party, D. "La brecha inaudible: Desigualdad de género en el consumo de música vía streaming en Chile (2017-2025)", XIII Congreso Chileno de Musicología (Viña del Mar, Chile), Oct 2026
 
-“Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
+Party, D. “Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)”, LASA Congress (Paris, France), May 2026
+
+Party, D. “Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
 ## In the Media
 [Interview about the project](https://schm.cl/entrevista-a-daniel-party/), Sociedad Chilena de Musicología, Aug 2026
