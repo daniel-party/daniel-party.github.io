@@ -120,6 +120,7 @@ Party, D. "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", 
   <img src="assets/img/Rojas.jpeg" alt="Nicolás Rojas presentation at Jornada de Musicología UC" style="float: right; width: 220px; max-width: 35%; margin-left: 20px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
   
 Rojas, N. "Expresiones y representaciones de género en canciones colaborativas de la escena urbana chilena", Jornada de Musicología UC (Santiago de Chile), Nov 2026
+</div>
 
 Party, D. "La brecha inaudible: Desigualdad de género en el consumo de música vía streaming en Chile (2017-2025)", XIII Congreso Chileno de Musicología (Viña del Mar, Chile), Oct 2026
 
