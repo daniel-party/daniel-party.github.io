@@ -117,7 +117,7 @@ Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https:/
 Party, D. "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), March 2027
 
 <div style="overflow: hidden; margin-bottom: 1em;">
-  <img src="assets/img/Rojas.jpg" alt="Nicolás Rojas presentation at Jornada de Musicología UC" style="float: right; width: 220px; max-width: 35%; margin-left: 20px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
+  <img src="assets/img/Rojas.jpeg" alt="Nicolás Rojas presentation at Jornada de Musicología UC" style="float: right; width: 220px; max-width: 35%; margin-left: 20px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" />
   
 Rojas, N. "Expresiones y representaciones de género en canciones colaborativas de la escena urbana chilena", Jornada de Musicología UC (Santiago de Chile), Nov 2026
 
