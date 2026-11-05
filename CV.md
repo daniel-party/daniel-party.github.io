@@ -8,7 +8,7 @@ layout: default
 [Education](#education) /
 [Publications](#publications) /
 [Grants](#teaching-awards) /
-[Guest Lectures](#invited-guest-lectures-and-workshops) /
+[Invited Talks](#invited-talks-and-workshops) /
 [Conferences](#conference-presentations) /
 [Grad Students](#graduate-students-and-postdoctoral-advisees) /
 [Courses](#courses-taught) /
@@ -230,7 +230,7 @@ Benjamin Franklin Fellowship, University of Pennsylvania, 1999-2004
 Parallel Degrees Fellowship (Physics and Music), Catholic University of Chile, 1996-97  
 
 
-## Invited Guest Lectures and Workshops
+## Invited Talks and Workshops
 
 Music Department, Harvard University, Apr 2027
 
