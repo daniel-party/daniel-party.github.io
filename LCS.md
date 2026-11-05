@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<header markdown="1" style="position: sticky; top: 0; background-color: #ffffff; padding: 10px 0; z-index: 999; border-bottom: 1px solid #eaeaea;">
+<div style="position: sticky; top: 0; background-color: #ffffff; z-index: 9999; padding: 15px 0 10px 0; border-bottom: 2px solid #eaeaea; margin-bottom: 20px;">
+<div markdown="1">
 
 # Gender Gaps in Latin Music
 
@@ -17,7 +18,8 @@ layout: default
 [Conferences](#conference-presentations) /
 [Media](#in-the-media) /
 
-</header>
+</div>
+</div>
 
 ## Researchers
 Daniel Party, Responsible Researcher  
