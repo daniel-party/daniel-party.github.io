@@ -124,6 +124,8 @@ Party, D. "La brecha inaudible: Desigualdad de género en el consumo de música 
 
 Party, D. “Gender Gaps on Billboard’s Hot Latin Songs Chart (1986-2024)”, LASA Congress (Paris, France), May 2026
 
+Olivares, D. "Representación de género en la música popular latina", X Jornadas de Investigadores Musicales Emergentes y en Formación (Santiago de Chile), Oct 2025
+
 Party, D. “Latinidad and the Billboard Hot Latin Songs Chart (1986-2024)”, 70th Annual Meeting of the SEM (Atlanta, GA), Oct 2025
 
 ## In the Media
