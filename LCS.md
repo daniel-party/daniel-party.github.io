@@ -11,7 +11,7 @@ layout: default
 [Thesis Students](#Thesis-students) /
 [Funding](#funding) /
 [Publications](#publications) /
-[Guest Lectures](#invited-guest-lectures-and-workshops) /
+[Invited Talks](#invited-talks-and-workshops) /
 [Conferences](#conference-presentations) /
 [Media](#in-the-media) /
 
@@ -107,7 +107,15 @@ Party, D., & Olivares, D. Structuring Exclusion: Gender, Genre Dominance, and th
 
 Olivares, D., & Party, D. (2026). [Billboard Hot Latin Songs Chart Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H5ONQ9) (Version V2) (Data set). Harvard Dataverse. https://doi.org/10.7910/DVN/H5ONQ9
 
-## Invited Guest Lectures and Workshops
+## Invited Talks and Workshops
+Music Department, Harvard University, Apr 2027
+
+Music Department, Wellesley College, Apr 2027
+
+Latina/o Studies, Williams College, Apr 2027
+
+Thornton School of Music, University of Southern California, Mar 2027
+
 “Gender Representation on Billboard’s Hot Latin Songs Chart (1987-2024)”, Workshop Materialities, Practices and Industries in Popular Music, Instituto de Música, Pontificia Universidad Católica de Valparaíso, Nov 2025
 
 “Brechas de género en el ránking latino de Billboard (1987-2024)”, Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025
