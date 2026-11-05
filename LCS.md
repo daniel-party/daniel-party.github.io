@@ -39,25 +39,26 @@ Daniel Party, Responsible Researcher
 
 ### Graduate
 
-<details>  
-  <summary>Diego Olivares (Ph.D. student, Oxford University)</summary>
-
-<br>
-
-<p>Sociólogo y Magíster en Sociología de la Pontificia Universidad Católica de Chile. Trabajando en investigación sobre nuevas tecnologías y su impacto en el mercado laboral. Investigo también temáticas sobre música popular, desde un enfoque cuantitativo, observando los cambios a través del tiempo y en particular el impacto de la plataformización en la industria musical. Experiencia en Análisis Cuantitativo usando Rstudio, Stata y Excel. Manejo y Gestión de Bases de Datos internas y de Políticas Públicas. Experiencia en Consultoría, Investigaciones Académicas, Organizaciones Internacionales y Organizaciones de la Sociedad Civil.</p>
-
-<a href="https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image">Linkedin</a>
-
-</details>
-
 <details>
-  <summary>Ana María Díaz Pinto (Ph.D. candidate, UC Davis)</summary>
+  <summary>Ana María Díaz Pinto (Ph.D. candidate in Ethnomusicology at UC Davis)</summary>
 
 <br>
 
 <p>Ana María Díaz Pinto is a PhD candidate in ethnomusicology at the University of California, Davis. Ana María holds a bachelor’s degree in music from the Pontificia Universidad Católica de Chile and a master’s in music from the University of California. Her research interests encompass popular music and dance in Latin America, youth culture, and sensory ethnographic filmmaking. She is currently working in the Chilean reggaetón scene as part of her dissertation, addressing circuits of music creation, dancing, and queer urban nightlife.</p>
 
 <a href="https://cl.linkedin.com/in/ana-maría-díaz-pinto-91702a163">Linkedin</a>
+
+</details>
+
+<details>  
+  <summary>Diego Olivares (Ph.D. student at the Oxford Internet Institute, Oxford University)</summary>
+
+<br>
+
+<p>Diego is a DPhil student and Clarendon Scholar at the Oxford Internet Institute. His research sits at the intersection of digital sociology and popular music studies, applying quantitative and mixed methods to examine the impact of new technologies on musician’s labour and the music industry.
+Diego holds a B.S. and an M.A. in Sociology from the Pontifical Catholic University of Chile.</p>
+
+<a href="https://cl.linkedin.com/in/diego-olivares-009ab22b0?trk=public_profile_publication_contributor-image">Linkedin</a>
 
 </details>
 
