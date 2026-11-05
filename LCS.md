@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header markdown="1" style="position: fixed; top: 0; left: 0; width: 100%; background-color: #ffffff; padding: 15px 10%; z-index: 10000; box-shadow: 0 2px 10px rgba(0,0,0,0.08); box-sizing: border-box;">
+<header markdown="1" style="position: sticky; top: 0; background-color: #ffffff; padding: 10px 0; z-index: 999; border-bottom: 1px solid #eaeaea;">
 
 # Gender Gaps in Latin Music
 
@@ -18,8 +18,6 @@ layout: default
 [Media](#in-the-media) /
 
 </header>
-
-<div style="padding-top: 220px;"></div>
 
 ## Researchers
 Daniel Party, Responsible Researcher  
