@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div style="position: sticky; top: 0; background-color: #ffffff; z-index: 9999; padding: 15px 0 10px 0; border-bottom: 2px solid #eaeaea; margin-bottom: 20px;">
+<div markdown="1">
+  
 # Curriculum Vitae
 
 [Employment](#employment) /
@@ -14,6 +17,9 @@ layout: default
 [Courses](#courses-taught) /
 [Media](#in-the-media) /
 [Service](#academic-and-evaluation-service)
+
+</div>
+</div>
 
 ## Employment
 
