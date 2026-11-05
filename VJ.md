@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div style="position: sticky; top: 0; background-color: #ffffff; z-index: 9999; padding: 15px 0 10px 0; border-bottom: 2px solid #eaeaea; margin-bottom: 20px;">
+<div markdown="1">
+
 # Queering Víctor Jara
 > A queer biography of a martyr
 
@@ -12,6 +15,8 @@ layout: default
 [Conferences](#conference-presentations) /
 [Media](#in-the-media) /
 
+</div>
+</div>
 
 ## Researchers
 Daniel Party, Responsible Researcher  
