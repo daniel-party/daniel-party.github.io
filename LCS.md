@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header style="position: sticky; top: 0; background-color: #ffffff; padding: 15px 0 10px 0; z-index: 1000; border-bottom: 1px solid #eaeaea;">
+<header markdown="1" style="position: sticky; top: 0; background-color: #ffffff; padding: 10px 0; z-index: 1000; border-bottom: 1px solid #eaeaea;">
 
 # Gender Gaps in Latin Music
 
