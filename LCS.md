@@ -127,6 +127,8 @@ Thornton School of Music, University of Southern California, Mar 2027
 “Brechas de género en el ránking latino de Billboard (1987-2024)”, Coloquio Plataformas digitales y dinámicas laborales en la industria musical chilena, Universidad Adolfo Ibáñez, Apr 2025
 
 ## Conference presentations
+Party, D. "From 'La Tortura' to 'QLONA': Gendered Dynamics in Male-Female Latin Collaborative Songs", LASA Congress (Ciudad de México, México), Jun 2027
+
 Party, D. "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), March 2027
 
 <div style="overflow: hidden; margin-bottom: 1em;">
