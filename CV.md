@@ -334,6 +334,8 @@ Music Department, Cornell University, Feb 2017
 
 ## Conference Presentations
 
+"From 'La Tortura' to 'QLONA': Gendered Dynamics in Male-Female Latin Collaborative Songs", LASA Congress (Ciudad de México, México), Jun 2027
+
 "Gender and genre on Billboard’s Hot Latin Songs Chart, 1987-2024", Society for American Music Conference (Buffalo, NY), Mar 2027
 
 "The Construction of an _Altiplanic Sound_ in Chilean New Song: The Case of Víctor Jara" (with Javiera Benavente), 49th ICTMD World Conference (Santiago, Chile), Jan 2027 
